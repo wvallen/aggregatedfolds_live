@@ -7,17 +7,21 @@
   <link rel="stylesheet" href="/css/style.css">
 </head>
 <body>
-  <div class="layout">
-    <nav class="sidebar">
-      <h2><a href="/">af</a></h2>
-      <ul>
-        <li><a href="/">home</a></li>
-        <li><a href="https://vallen.me" target="_blank" rel="noopener">about</a></li>
-      </ul>
-    </nav>
-    <main class="content">
-      {{ content | safe }}
-    </main>
-  </div>
+  <header>
+    <a href="https://www.wvallen.com/">photoblog</a> | 
+    <a href="https://wvallen.tumblr.com/">everyday</a> | 
+    <a href="https://30s.wvallen.com/">30s</a> | 
+    <a href="https://www.wvallen.com/txt/">text</a> | 
+    <a href="https://vallen.me" target="_blank">about</a>
+  </header>
+
+  <nav>
+    <a href="/">home</a>
+    <a href="https://vallen.me" target="_blank">about</a>
+  </nav>
+
+  <main class="content">
+    {{ content | safe }}
+  </main>
 </body>
 </html>
