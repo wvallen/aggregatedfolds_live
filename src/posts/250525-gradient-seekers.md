@@ -23,7 +23,7 @@ I often think back to that month in 1999, when I crossed the Atlantic to work in
 
 Clermont-Ferrand itself was folded too—nestled in the Massif Central, ringed by dormant volcanoes and medieval rooftops. The air was clean, sharp, humming with the memory of geologic force. I would walk to the lab each morning past sun-warmed stone, through alleyways that smelled of espresso and lichen. And in that quiet rhythm, the actin filaments I saw under the microscope didn’t feel so distant from the basalt ridgelines above.
 
-![Actin-stained Tetrahymena](/images/1999-Tthermophila-actin.JPG)
+![Actin-stained Tetrahymena](/images/1999-Tthermophila-actin.JPG.jpeg)
 
 The upper right is the mouth. The body trails down to the lower left. Each cilium not just for motion, but for knowing. They were alone, but not solitary—a part of a quiet, shimmering community of sensation. Looking at them was like looking at an idea caught mid-gesture.
 
