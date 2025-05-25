@@ -26,7 +26,9 @@ Clermont-Ferrand itself was folded too—nestled in the Massif Central, ringed b
 
 <figure>
   <img src="/images/1999-Tthermophila-actin.JPG" alt="Actin-stained Tetrahymena">
-  <figcaption>Actin-stained <em>Tetrahymena</em> from my 1999 time in Clermont-Ferrand. The upper right glows with the oral apparatus.</figcaption>
+  <figcaption>A green-lit <em>Tetrahymena</em>, captured during a quiet summer of learning. The upper right glows with the place it senses the world—where molecules become movement.
+</figcaption>
+
 </figure>
 
 The upper right is the mouth. The body trails down to the lower left. Each cilium not just for motion, but for knowing. They were alone, but not solitary—a part of a quiet, shimmering community of sensation. Looking at them was like looking at an idea caught mid-gesture.
