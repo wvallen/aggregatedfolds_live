@@ -2,9 +2,10 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("src/css");
   eleventyConfig.addPassthroughCopy("src/images"); // ✅ Add this
 
-  eleventyConfig.addCollection("posts", function(collectionApi) {
-    return collectionApi.getFilteredByTag("post");
-  });
+eleventyConfig.addCollection("posts", function(collectionApi) {
+  return collectionApi.getFilteredByTag("post").reverse();
+});
+
 
   return {
     dir: {
