@@ -2,7 +2,7 @@
 title: "250525 - Gradient Seekers"
 date: 2025-05-25
 layout: post
-image: /images/1999-Tthermophila-actin.JPG
+image: /images/1999-Tthermophila-actin.JPG.jpeg
 ---
 
 **The First Direction**
