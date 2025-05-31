@@ -1,4 +1,3 @@
-
 ---
 title: 250531 - The Coherence of Thought
 date: 2025-05-31
