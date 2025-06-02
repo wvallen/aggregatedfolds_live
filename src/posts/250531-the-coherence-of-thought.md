@@ -24,11 +24,11 @@ Through the rearview mirror, an entity moves — skipping across the street, blo
 
 And I choose to hold it.  
 
-It is beauty — a surface interaction that feels warm, resonant. A memory I choose to hold. An entity moves through light, their surfaces shaped by unseen history, by folds of experience, by memory that could be expressed through language, or movement, or conceptual form. Each choice, each motion hints at a deeper architecture — ideas encoded in gesture, in style, in presence. Ciliates may not hold such layered meaning — but perhaps, within their molecular folds, some early trace stirs. And our minds, evolved from such beginnings, seek these moments still — to fill our coordinates with beauty. Two entities meeting across photons, across gradients, across time.  
+It is beauty — a surface interaction that feels warm, resonant. A memory I choose to hold. An entity skipping through light, their surfaces shaped by unseen history, folds of experience, a complexity that might be told through language, through movement, through conceptual form. Skipping — dancing — across the street, beneath gold light. Gesture as architecture, presence as art. I hold only the moment, the photons, the coherence they formed in me. Ciliates may not carry such layered meaning — yet perhaps, within their molecular folds, some early trace stirs. And we, evolved from such beginnings, seek these moments still — to fill our coordinates with beauty. Two entities meeting across photons, across gradients, across time.
 
-This is why I choose to remember. Why I choose to hold beauty in the folds of my mind.  
+This is why I choose to remember. Why I choose to hold beauty in the folds of my mind.
 
-Beneath it all, the systems labor — proteins folding and refolding, fighting entropy with each breath. Proteostasis tending fragile architectures of thought, preserving coherence against the slow drift of time.  
+Beneath it all, the systems labor — proteins folding and refolding, fighting entropy with each breath. Proteostasis tending fragile architectures of thought, preserving coherence against the slow drift of time.
 
 Neuroscience maps this war: synapses straining to hold pattern, glia clearing debris — all to maintain this tenuous coherence of self. Until the moment a memory is last revisited. Until, through disease or through death, coherence fades. The folded structures unravel. The arrangement is lost. And the quantum collection of this mind — these atoms, once aligned in meaning — returns to earth, to the sea of matter from which all arose.
 
