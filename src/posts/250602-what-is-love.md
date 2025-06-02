@@ -5,7 +5,7 @@ layout: post.njk
 tags: post
 ---
 
-**What Is Love? _(baby, dont hurt me)_**  
+**_(baby, dont hurt me)_**  
 *On Gravity, Resonance, and Choosing the Dance of Becoming*  
 
 The universe began with a curve. Before light, before atoms, before thought—spacetime bent. That first fold, gravity’s gentle whisper, invited particles to come closer. Without it, protons and electrons would have drifted endlessly. With it, the first atoms formed—hydrogen’s quiet coherence. From these simple bonds, stars were born. In their hearts, heavier elements—carbon, oxygen, iron—took shape. The universe began folding itself toward complexity.  
