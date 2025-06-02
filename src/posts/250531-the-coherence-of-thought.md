@@ -16,7 +16,7 @@ When we say *the universe experiences itself*, might it begin here — in such e
 Two entities adrift in gradients, responding to presence, imprinting upon one another.
 
 In the eye, the language of sensing has changed, yet remains the same.  
-Evening folds through the city — photons arriving from our nearest star, filtered through the atmosphere at a slant, high-angle scattering removing the shorter wavelengths. What remains is gold, warmth — the familiar hues of human twilight, gilding stone and shadow alike. Through the window of a waiting car, this ancient light slips through glass and shadow. One finds its way to a photoreceptor, where rhodopsin folds in response. The chromophore within shifts configuration, triggering a cascade through transducin, phosphodiesterase, and cyclic nucleotide-gated channels. The flow of ions alters, and an electrical whisper is born.
+Evening folds through the city — photons arriving from our nearest star, filtered through the atmosphere at a slant, high-angle scattering removing the shorter wavelengths. What remains is gold, warmth — the familiar hues of twilight, gilding stone and shadow alike. Through the window of a waiting car, this ancient light slips through glass and shadow. One finds its way to a photoreceptor, where rhodopsin folds in response. The chromophore within shifts configuration, triggering a cascade through transducin, phosphodiesterase, and cyclic nucleotide-gated channels. The flow of ions alters, and an electrical whisper is born.
 
 Signals weave upward through layered circuits. Retina. Thalamus. Cortex. Neurons synchronize, binding motion and light into coherence.
 
