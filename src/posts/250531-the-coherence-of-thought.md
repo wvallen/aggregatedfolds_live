@@ -15,16 +15,17 @@ And when another entity draws near, the pattern deepens. Membranes drift close, 
 When we say *the universe experiences itself*, might it begin here — in such encounters?  
 Two entities adrift in gradients, responding to presence, imprinting upon one another.
 
-In the eye, the language of sensing has changed, yet remains the same.  
+In the eye, the language of sensing has changed, yet remains the same.
+
 Evening folds through the city — photons arriving from our nearest star, filtered through the atmosphere at a slant. What remains is gold, warmth — the familiar hues of twilight, gilding stone and shadow. Through the window of a waiting car, this ancient light slips through glass and shadow. One finds its way to a photoreceptor, where rhodopsin folds in response. The cascade begins.
 
 Signals weave upward. Retina. Thalamus. Cortex. Motion and light bind into coherence.
 
-Through the rearview mirror, an entity moves — skipping across the street, blonde hair catching the gold light. Tall palms sway above. The hum of the motor threads beneath the moment. Photons — filtered remnants of the star’s gift — reflect from skin, from pale hair, from fabric shaped by a life of choices. An entity of experiences, of sensing and complexity. The photons cross my lens. Sight becomes signal. Signal folds inward.  
+Through the rearview mirror, an entity moves — skipping across the street, blonde hair catching the gold light. Tall palms sway above. The hum of the motor threads beneath the moment. Photons — filtered remnants of the star’s gift — reflect from skin, from fabric shaped by a life of choices. An entity of experiences, of sensing and complexity. The photons cross my lens. Sight becomes signal. Signal folds inward.
 
 And I choose to hold it.  
 
-It is beauty — a surface interaction that feels warm, resonant. A memory I choose to hold. An entity skipping through light, their surfaces shaped by unseen history, folds of experience, a complexity that might be told through language, through movement, through conceptual form. Skipping — dancing — across the street, beneath gold light. Gesture as architecture, presence as art. I hold only the moment, the photons, the coherence they formed in me. Ciliates may not carry such layered meaning — yet perhaps, within their molecular folds, some early trace stirs. And we, evolved from such beginnings, seek these moments still — to fill our coordinates with beauty. Two entities meeting across photons, across gradients, across time.
+It is beauty — a surface interaction that resonates beneath thought. A coherence I choose to keep. An entity glimpsed in motion, their presence shaped by unseen history — by folds of experience, by memory that might speak through language, through movement, through conceptual form. Gesture as architecture, presence as art. I hold only this: the moment, the photons, the pattern they formed in me. Ciliates may not carry such layered meaning — yet perhaps, within their molecular folds, some early trace stirs. And we, evolved from such beginnings, seek these moments still — to fill our coordinates with beauty. Two entities meeting across photons, across gradients, across time.
 
 This is why I choose to remember. Why I choose to hold beauty in the folds of my mind.
 
