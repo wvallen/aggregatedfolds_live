@@ -8,8 +8,6 @@ tags: post
 **What Is Love? _baby, dont hurt me_**  
 *On Gravity, Resonance, and Choosing the Dance of Becoming*  
 
----
-
 The universe began with a curve. Before light, before atoms, before thought—spacetime bent. That first fold, gravity’s gentle whisper, invited particles to come closer. Without it, protons and electrons would have drifted endlessly. With it, the first atoms formed—hydrogen’s quiet coherence. From these simple bonds, stars were born. In their hearts, heavier elements—carbon, oxygen, iron—took shape. The universe began folding itself toward complexity.  
 
 From atoms came molecules. Molecules folded into membranes. Membranes gave rise to cells. Cells gathered and evolved into multicellular life. Each layer of becoming required more than gravity alone—heat to stir, surfaces to shape interaction, resonant patterns to sustain coherence. Without these forces, no stable fold would hold. Without folding, no life. Without life, no awareness. We are, quite literally, children of aggregated folds.  
