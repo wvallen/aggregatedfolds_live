@@ -5,7 +5,7 @@ layout: post.njk
 tags: post
 ---
 
-**_On surfaces, sensing, and the folds of memory_**
+**On surfaces, sensing, and the folds of memory**
 
 A ciliate moves through water, sensing the world with each beat of its cilia.  
 Waves ripple across its surface — patterns born of ions in motion, proteins folding and unfolding, membranes bending to currents beyond sight or touch. The entity moves through gradients of possibility, drawn by the faint traces of glucose, by the subtle presence of another. Receptors shift, calcium flows, rhythms change. Direction emerges from the dance.
