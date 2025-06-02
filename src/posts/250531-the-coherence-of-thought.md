@@ -37,7 +37,7 @@ Elsewhere, vesicles quiver, synapses leap. An action potential dances the synapt
 What is thought but coherence across scales?  
 A ripple in cytosol becomes direction.  
 A calcium spark anchors experience.  
-Photons caught at twilight become memory.
+Photons caught at twilight become memory...
 
 From ciliate to cortex, from membrane to mirror — surfaces touch, currents entwine, folds emerge. And somewhere within this shimmering braid of signals and sensation, we *are*.
 
