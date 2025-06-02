@@ -43,6 +43,6 @@ Photons caught at twilight become memory.
 
 From ciliate to cortex, from membrane to mirror — surfaces touch, currents entwine, folds emerge. And somewhere within this shimmering braid of signals and sensation, we *are*.
 
-Membranes bend. Proteins change. Atoms packed within forces. Coherence rises from noise — in water, in thought. The same forces guide the pause of the ciliate, the gaze of the observer. The choice to hold a moment of beauty a little longer.
+Membranes bend. Proteins change. Atoms packed within forces. Coherence rises from noise — in water, in thought. The same forces guide the pause of the ciliate, the lengthened gaze of the observer. The choice to hold a moment of beauty a little longer.
 
-And when the car moves on, when the sun has fallen, the moment remains. Light on a face. A light-hearted skipping dance. The gold in the mirror. Gone. Yet present. A kindness of the world, folded into memory. Alone, and complete.
+And when the car moves on, when the sun has fallen, the moment remains. Light on a face. A light-hearted skipping dance. The palm-tree sunset in the mirror. Gone. Yet present. A kindness of the world, folded into memory. Alone, and complete.
