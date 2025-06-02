@@ -7,7 +7,8 @@ tags: post
 
 **When a Fold Dreams It Can Dance**
 
-This blog didn’t begin with a plan.  
+This blog didn’t begin with a plan. 
+
 It began with potential—thoughts suspended in solution, fragments of memory, molecular metaphors, half-finished ideas. They floated there for years. Some came from textbooks, some from field notes, some from long walks and long silences. I didn’t know what they would become. But like proteins under the right conditions, they began to fold.
 
 Each post here is a structure formed from contact— less a statement, more a stabilization. The way a peptide finds shape through molecular interactions, these essays and fragments find form through friction with the world. Lessons learned in the lab bind to moments of joy, confusion, failure, awe. Textbook diagrams collapse into metaphor. Concepts once sharp with scientific precision soften under lived experience. And in the right configuration, they hold.
