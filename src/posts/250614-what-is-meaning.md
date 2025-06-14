@@ -27,12 +27,12 @@ Let:
 
 <br>
 
-**Then:**  
+Then:  
 **M = S × R(C)**
 
 Meaning (**M**) becomes the weighted product of external signal and internal pattern. This is not a proof—it’s a scaffold. A sketch of where molecules and metaphor meet. The protozoan drifting through pond water doesn’t “know” it’s meaningful—but it responds. Its vesicles modulate, its cilia adjust course. Maybe it swims through proto-meaning. Maybe we’re not so different.
 
-Let’s run the equation at its limits. A single-cell organism receives a glucose molecule, binds it at the surface, and triggers a localized calcium influx. A ripple of chemistry cues a behavioral shift. But the cell has no memory matrix—no narrative, no relational tether. Its \( **R(C)** \) approaches zero. It acts, but it does not remember. It survives, but it does not mean.
+Let’s run the equation at its limits. A single-cell organism receives a glucose molecule, binds it at the surface, and triggers a localized calcium influx. A ripple of chemistry cues a behavioral shift. But the cell has no memory matrix—no narrative, no relational tether. Its \(**R(C)**\) approaches zero. It acts, but it does not remember. It survives, but it does not mean.
 
 Now shift. You find yourself in Stockholm on a warm June night. The Glenn Miller Café glows amber with human warmth. The room pulses with presence. Saxophonist Håkan Broström draws ribbons of breath through brass—slow, exploratory, molten with feeling. The pianist, Leo Lindberg, plays like he’s tracing the arc of an emotion he can’t quite name. But it’s the bassist, Mats Sandahl, who draws your gaze. He’s bowed inward, eyes closed, locked in the moment. You can almost see the resonance of his neurons firing in synchrony with the room. He’s not playing a note. He’s playing a memory—or becoming one.
 
@@ -41,17 +41,17 @@ Now shift. You find yourself in Stockholm on a warm June night. The Glenn Miller
   <figcaption>Håkan Broström (sax), Leo Lindberg (piano), Mats Sandahl (double bass), and Karl-Henrik Ousbäck (drums) perform at the Glenn Miller Café in Stockholm. Each note shaped by memory, intention, and breath—translating emotional structure into sound, and signal into something almost sacred.</figcaption>
 </figure>
 
-The signal is not loud. It is focused. It is alive. You let it in. And in that moment, your own context comes alive. You remember the first time you lowered the needle onto your late stepfather’s record player, the dust crackling just before the sound bloomed. That music wasn’t just sound—it was *his* signal. His map. His weather. You understood something then—his taste, his sorrow, his time. But more than that, you felt your own \( **R(C)** \) shift. His emotional geography reshaped your capacity to resonate. And now, years later, as this quartet plays, his imprint flares awake. Your resonance matrix isn’t just yours. It’s partially inherited. His weather left pressure marks in your system. You’ll never know what pressured him—what winds carved his contours—but you carry the echo. That is the transference of meaning. This is how memory becomes geometry.
+The signal is not loud. It is focused. It is alive. You let it in. And in that moment, your own context comes alive. You remember the first time you lowered the needle onto your late stepfather’s record player, the dust crackling just before the sound bloomed. That music wasn’t just sound—it was *his* signal. His map. His weather. You understood something then—his taste, his sorrow, his time. But more than that, you felt your own \(**R(C)**\) shift. His emotional geography reshaped your capacity to resonate. And now, years later, as this quartet plays, his imprint flares awake. Your resonance matrix isn’t just yours. It’s partially inherited. His weather left pressure marks in your system. You’ll never know what pressured him—what winds carved his contours—but you carry the echo. That is the transference of meaning. This is how memory becomes geometry.
 
 This is what we forget. **Meaning does not always scale.** Sometimes, the deepest meaning arrives from reducing input, not increasing it. The cell doesn’t need all of reality to act. Just one chemical trail. One vibration. One spark that fits the context of its membrane-encoded past. Likewise, a single breath of music, a quiet sunset, or a glance exchanged across a candlelit table can ripple deeper than the firehose of media saturation.
 
 Contrast that with the modern condition. We are handed signals of overwhelming power: war, fascism rising, genocide broadcast live. Egos intoxicated by control trade empathy for empire. Children die beneath drones while algorithms debate their humanity. The planet burns. Freedom of thought is rewritten in real time. Individual justice is reframed as treason. The signals are *too strong*. But we are offered no matrix—no time, no tools—to make it resonate properly. And so:
 
-**M =** **high S** × **R(fragmented or unstable C)** → **false, chaotic, or numbing meaning**
+**M** = high **S** × **R(**fragmented or unstable **C)** → _false, chaotic, or numbing meaning_
 
 This is meaning without scaffolding. Reaction without reflection. We cry, we doomscroll, we burn out. We feel everything and nothing at once. This isn’t apathy—it’s *signal collapse*.
 
-So we must return to resonance scaled to our manifold. The sound of birds before dawn. The feel of sun on weathered wood. The smell of lilacs in early summer. The Baltic wind as it cuts across your skin and makes you feel *awake*. These aren’t distractions. They’re recalibrations. They return us to a manageable signal density—one where our \( **R(C)** \) can activate fully, without distortion.
+So we must return to resonance scaled to our manifold. The sound of birds before dawn. The feel of sun on weathered wood. The smell of lilacs in early summer. The Baltic wind as it cuts across your skin and makes you feel *awake*. These aren’t distractions. They’re recalibrations. They return us to a manageable signal density—one where our \(**R(C)**\) can activate fully, without distortion.
 
 We are not blank slates. We are patterned gradients. Fractal carriers of all the signals we’ve ever let shape us. Meaning isn’t built from quantity. It’s grown from fit. The single cell doesn't need omniscience. It needs one pulse of sugar. You don’t need the entire world. You need one truth that lands, deeply and clearly, against your lived geometry.
 
