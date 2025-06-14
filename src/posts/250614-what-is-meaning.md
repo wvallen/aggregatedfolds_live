@@ -1,9 +1,9 @@
 ---
-title: "250614-what-is-meaning"
-description: "An exploration of the equation M = S · R(C), where meaning arises from signal and relevance in our limited 4D manifold. Featuring the Glenn Miller Café, Stockholm, June 2025."
+title: 250614 - What Is Meaning
 date: 2025-06-14
-image: ./images/250612-glenn-miller-cafe.jpeg
-imageAlt: "Jazz quartet at the Glenn Miller Café in Stockholm. Saxophonist Håkan Broström, pianist Leo Lindberg, bassist Mats Sandahl, and drummer Karl-Henrik Ousbäck perform in warm amber light on June 13, 2025."
+layout: post.njk
+tags: post
+image: /images/250612-glenn-miller-cafe.jpeg
 ---
 
 ### *What Is Meaning*  
