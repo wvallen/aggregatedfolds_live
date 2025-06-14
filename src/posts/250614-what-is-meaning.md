@@ -16,15 +16,15 @@ We no longer sense just our immediate environment—the crunch of gravel beneath
 
 To cope, we filter. And sometimes, we forget we are filtering. We mistake the spectrogram for the song. The schema for the sensation. The echo chamber of our input systems gives us the illusion of comprehending reality when in fact, we’re just watching shadows flicker across the inside of our manifold. Meaning isn’t in the ping. It’s in the resonance. One receptor’s activation from a soundwave isn’t meaning. One calcium flux isn’t meaning. But something emerges when enough signals echo within a living system and reflect against memory. Meaning arises not from signal alone, but from the moment that signal meets relevance.
 
-Let’s propose a model. Let:
+Let’s propose a model. 
 
+Let:
 - **S**: Signal strength — the intensity or clarity of incoming data  
 - **C**: Contextual memory matrix — the accumulation of lived experience, pattern recognition, emotional and narrative memory  
 - **R(C)**: Relevance function — a dynamic filter of what matters *right now* based on the shape of context  
 - **M**: Meaning — the emergent resonance felt when a signal successfully maps onto a relevant part of the context matrix  
 
 Then:
-
 **M = S × R(C)**
 
 Meaning (M) becomes the weighted product of external signal and internal pattern. This is not a proof—it’s a scaffold. A sketch of where molecules and metaphor meet. The protozoan drifting through pond water doesn’t “know” it’s meaningful—but it responds. Its vesicles modulate, its cilia adjust course. Maybe it swims through proto-meaning. Maybe we’re not so different.
