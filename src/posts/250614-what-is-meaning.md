@@ -19,12 +19,15 @@ To cope, we filter. And sometimes, we forget we are filtering. We mistake the sp
 Let’s propose a model. 
 
 Let:
+
 - **S**: Signal strength — the intensity or clarity of incoming data  
 - **C**: Contextual memory matrix — the accumulation of lived experience, pattern recognition, emotional and narrative memory  
 - **R(C)**: Relevance function — a dynamic filter of what matters *right now* based on the shape of context  
 - **M**: Meaning — the emergent resonance felt when a signal successfully maps onto a relevant part of the context matrix  
 
-Then:
+<br>
+
+**Then:**  
 **M = S × R(C)**
 
 Meaning (M) becomes the weighted product of external signal and internal pattern. This is not a proof—it’s a scaffold. A sketch of where molecules and metaphor meet. The protozoan drifting through pond water doesn’t “know” it’s meaningful—but it responds. Its vesicles modulate, its cilia adjust course. Maybe it swims through proto-meaning. Maybe we’re not so different.
