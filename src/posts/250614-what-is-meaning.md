@@ -1,13 +1,13 @@
 ---
-title: 250614 - What Is Meaning
+title: 250614 - What Is Meaning?
 date: 2025-06-14
 layout: post.njk
 tags: post
 image: /images/250612-glenn-miller-cafe.jpeg
 ---
 
-### *What Is Meaning*  
-*Aggregated Folds, June 14, 2025*
+**_(don’t worry, just feel it)_**  
+*On Signal Collapse, Fractal Memory, and the Shape of Thought*  
 
 We are meaning machines wrapped in soft wet circuitry.  
 Inside each of us is a 4D manifold—three spatial axes and the arrow of time—through which we sift signal. This limited dimensionality is not a flaw. It’s the interface through which we experience now. But something strange is happening: the volume of incoming information is outpacing our architecture. We are saturated. The manifold is folding too fast.
