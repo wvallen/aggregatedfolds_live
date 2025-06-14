@@ -47,7 +47,7 @@ This is what we forget. **Meaning does not always scale.** Sometimes, the deepes
 
 Contrast that with the modern condition. We are handed signals of overwhelming power: war, fascism rising, genocide broadcast live. Egos intoxicated by control trade empathy for empire. Children die beneath drones while algorithms debate their humanity. The planet burns. Freedom of thought is rewritten in real time. Individual justice is reframed as treason. The signals are *too strong*. But we are offered no matrix—no time, no tools—to make it resonate properly. And so:
 
-**M** = high **S** × **R**(**C**, fragmented or unstable) → _false, chaotic, or numbing meaning_
+**M** = high **S** × **R****(**C****)**, fragmented or unstable → _false, chaotic, or numbing meaning_
 
 This is meaning without scaffolding. Reaction without reflection. We cry, we doomscroll, we burn out. We feel everything and nothing at once. This isn’t apathy—it’s *signal collapse*.
 
