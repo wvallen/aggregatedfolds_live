@@ -35,8 +35,10 @@ Let’s run the equation at its limits. A single-cell organism receives a glucos
 
 Now shift. You find yourself in Stockholm on a warm June night. The Glenn Miller Café glows amber with human warmth. The room pulses with presence. Saxophonist Håkan Broström draws ribbons of breath through brass—slow, exploratory, molten with feeling. The pianist, Leo Lindberg, plays like he’s tracing the arc of an emotion he can’t quite name. But it’s the bassist, Mats Sandahl, who draws your gaze. He’s bowed inward, eyes closed, locked in the moment. You can almost see the resonance of his neurons firing in synchrony with the room. He’s not playing a note. He’s playing a memory—or becoming one.
 
-![Glenn Miller Café quartet performing on June 13, 2025](../images/250612-glenn-miller-cafe.jpeg)
-*Figure: Håkan Broström (sax), Leo Lindberg (piano), Mats Sandahl (double bass), and Karl-Henrik Ousbäck (drums) perform at the Glenn Miller Café in Stockholm. Each note shaped by memory, intention, and breath—translating emotional structure into sound, and signal into something almost sacred.*
+<figure>
+  <img src="/images/250612-glenn-miller-cafe.jpeg" alt="Glenn Miller Café quartet performing on June 13, 2025">
+  <figcaption>Håkan Broström (sax), Leo Lindberg (piano), Mats Sandahl (double bass), and Karl-Henrik Ousbäck (drums) perform at the Glenn Miller Café in Stockholm. Each note shaped by memory, intention, and breath—translating emotional structure into sound, and signal into something almost sacred.</figcaption>
+</figure>
 
 The signal is not loud. It is focused. It is alive. You let it in. And in that moment, your own context comes alive. You remember the first time you lowered the needle onto your late stepfather’s record player, the dust crackling just before the sound bloomed. That music wasn’t just sound—it was *his* signal. His map. His weather. You understood something then—his taste, his sorrow, his time. But more than that, you felt your own \( R(C) \) shift. His emotional geography reshaped your capacity to resonate. And now, years later, as this quartet plays, his imprint flares awake. Your resonance matrix isn’t just yours. It’s partially inherited. His weather left pressure marks in your system. You’ll never know what pressured him—what winds carved his contours—but you carry the echo. That is the transference of meaning. This is how memory becomes geometry.
 
