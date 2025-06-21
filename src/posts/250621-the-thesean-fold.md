@@ -26,6 +26,10 @@ In 2008, I took a photograph that I now understand as a kind of fold. Shot on me
 
 Even then, something deep in me knew: the ship had to change. I needed a stronger hull, better sails. Not because I had failed, but because I was sailing into unfamiliar seas. The waters I was being called toward were rougher, more chaotic, more demanding. And more beautiful. I wanted to design for them. I wanted to become the kind of vessel that could move with curiosity and resilience through that open ocean.
 
+We are all navigating a sea of spacetime—threading our vessels through events and moments that stretch across dimensions. Each decision, each transition, shifts the course. The sea isn’t just metaphorical—it’s real, a fabric we move through. And so we build accordingly. Not for permanence, but for precision, balance, adaptability. We don’t just float in time—we sail through it.
+
+And the storms of life—those sudden ruptures in our local spacetime—can bash us hard against the rocks. Illness, grief, endings, even joy that asks too much of us—they all crack the hull. They force us to rebuild. These moments feel like chaos, but they are also instruction. They teach us where our framing was too thin, where our keel was misaligned, where our ballast was wrong. They reshape us not by design, but by necessity. And still, if we choose to, we sail on.
+
 The further I go, the more I understand how profoundly our biology mirrors this process. Our bodies are in constant replacement. Proteins fold and unfold, marked by time and function. Cells replicate, recycle, dissolve, are born anew. The brain doesn’t hold memory in some fixed vault—it reactivates it, re-encodes it, remaps it every time we remember. Even the molecules that underlie our sense of self are temporary. And yet—we feel continuity. We feel us. Not because the materials endure, but because the information does. Because the pattern reasserts itself, again and again, like a melody carried by changing instruments.
 
 Information is the thread. Not just in biology, but everywhere. From DNA to stars to spoken word, it is information that allows structure to persist across time and change. The self is not a structure. It is a symphony of codes playing out across the body, the brain, the stories we tell. What we choose to remember becomes what we choose to be. And what we choose to rebuild becomes the next chapter in that continuity.
@@ -40,5 +44,4 @@ But for me, this solstice sun, this long light that bends through the Swedish sk
 
 Lately, I’ve felt lost again. Like I’m mid-journey with no shore in sight. But I return to this thought, which I wrote once in a quiet moment, and which keeps returning to me now, like a beacon:
 
-*Only the ones who’ve felt lost at sea  
-can know what landfall means.*
+*Only the ones who’ve felt lost at sea can know what landfall means.*
