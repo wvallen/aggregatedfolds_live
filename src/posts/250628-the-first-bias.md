@@ -6,7 +6,7 @@ tags: post
 image: /images/L-and-D-W.jpeg
 ---
 
-**_(The slope that led to life was never level. A single bias, spun by light, tilted the cosmos into meaning.)_**
+**_(The slope that led to life was never level)_**
 
 *A meditation on chirality, light, and the origins of molecular choice*
 
