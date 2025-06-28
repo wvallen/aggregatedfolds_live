@@ -7,6 +7,7 @@ image: /images/L-and-D-W.jpeg
 ---
 
 **_(The slope that led to life was never level)_**
+
 *A meditation on chirality, light, and the origins of molecular choice*
 
 There was a moment, before biology, before folding, before the wet chemistry of life had even organized into whispering codes—when light, moving across an ancient galactic span, tipped the scale. Circularly polarized light from a distant star may have favored one handedness over the other. A gentle, photonic skew. In the cold dark, it destroyed just a few more D-amino acids than L. This bias, subtle as breath, etched its whisper into meteoritic stone. When those stones struck Earth—like the amino acid-rich Murchison meteorite—they carried with them that primordial leaning. Left-handed amino acids, in slight excess. A prebiotic seed, already asymmetric. And life, when it emerged, grew from that tilt. From the stars to the soil. From photons to proteins. That is the inheritance of bias.
