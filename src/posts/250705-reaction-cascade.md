@@ -29,13 +29,6 @@ At first it was scattered. Disordered. Chirps in no clear pattern. But then the 
 
 I brought out my tuba. Brass, weighty and tuned by hand. My own synthetic resonator. I didn’t want to overpower them. I just wanted to join. First, I played low notes, held steady. The frogs paused. Some shifted. Others waited. Then I changed— moved into melody. Minor chords. Riffs with space between them. A conversation, not a command. It was no longer mimicry. It was a duet. Their alignment shifted to accommodate mine. My breath moved through a tube of metal to become vibration, then pressure, then sound. Just as theirs did. Just with more layers. More gates for the energy to pass through.
 
-<figure>
-  <img src="/images/sparkler.jpeg" alt="A sparkler burning in a dark field, its sparks mirrored by distant fireflies. A tuba rests nearby in moonlight.">
-  <figcaption>
-    Reaction Cascade, 2025. Digital photograph. Sparks in motion, captured in time. Lightwaves echoing outward from metal and air, just as a frog’s call or a horn’s breath ripple through the same shared medium.
-  </figcaption>
-</figure>
-
 The frogs adjusted again. Not silence, not noise, but a modulation. They seemed to hear me. Seemed to **respond**. This wasn’t random chirping—it was phase, entrainment, **resonance**. My low notes were still my own, but they carried more. Not just pressure waves but **intentionality**. Emotion. Memory. Identity. I played phrases I’d never played before. As if my whole body wanted to sing, not just the mouth or the lungs. The whole thing—hands, brain, posture—working together to release an internal potential. Not unlike the sparkler.
 
 Everything is a chemical reaction. The frogs. The fireflies. The brass and my lungs. It’s all just different levels of the same cascade: energy pushing through matter, shaped by context and structure. Each added layer of complexity becomes a new chance to say something. A new modulation of light, or sound, or being.
