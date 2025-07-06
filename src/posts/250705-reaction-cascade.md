@@ -17,6 +17,13 @@ The chemistry behind it is simple, but not simplistic. Oxidizers meet fuels in j
 
 And that light, released at the perfect pace, is what I hold in my hand. A sparkler isn’t just a safer firework—it’s a **slowed firework**. The same chemistry, pulled into a longer timescale. A reaction engineered for presence. I light one, and it begins to spit and shimmer. It sounds chaotic—sparks hissing and veering—but the burn is measured. The pace is perfect. Enough to watch. Enough to write.
 
+<figure>
+  <img src="/images/sparkler.jpeg" alt="A sparkler burning in a dark field, its sparks mirrored by distant fireflies. A tuba rests nearby in moonlight.">
+  <figcaption>
+    Reaction Cascade, 2025. Digital photograph. Sparks in motion, captured in time. Lightwaves echoing outward from metal and air, just as a frog’s call or a horn’s breath ripple through the same shared medium.
+  </figcaption>
+</figure>
+
 I remember doing this as a child—at a campground where the trees circled our RVs like quiet sentinels, and the adults handed out sparklers with that solemn, wordless nod of parental approval that felt enormous. We were entrusted with flame. Given permission to shape light. I drew patterns into the warm air—scribbled stars, looped hearts, wrote names like small spells. My letter was W. A letter I’ve grown into and wrestled with. Symmetrical, palindromic, all sharp angles and soft mystery. A gift and a riddle. Unlike others, I didn’t need to reverse it to make it face outward in light—it already did. A minor miracle of childhood coordination, simplified. In that moment, I wasn’t just playing. I was inscribing something—etching myself into the night, forward and backward. And in that glow, so were all of us. Arcing our still-forming identities through slow combustion, one looping letter at a time.
 
 Now, decades later, I sit beside the pond near the steel cabin I’m building by hand. It’s rough still—raw metal, open seams, unfinished edges—but it shelters the tools and plans of a future I’m actively making. And from here, on this soft slope of earth, I light another sparkler. The chemistry repeats. The sparks fly. But now I see what I couldn’t see then: it’s all energy shaped into intention. Every combustion, every flicker, every molecule torn apart and remade—it all becomes signal. The difference is speed. The difference is control. From flash to word. From explosion to note.
