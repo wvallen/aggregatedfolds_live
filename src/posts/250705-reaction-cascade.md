@@ -20,7 +20,7 @@ And that light, released at the perfect pace, is what I hold in my hand. A spark
 <figure>
   <img src="/images/sparkler.jpeg" alt="A sparkler burning in a dark field, its sparks mirrored by distant fireflies. A tuba rests nearby in moonlight.">
   <figcaption>
-    Reaction Cascade, 2025. Digital photograph. Sparks in motion, captured in time. Lightwaves echoing outward from metal and air, just as a frog’s call or a horn’s breath ripple through the same shared medium.
+    Reaction Cascade, 2025. Digital photograph. A summer evening by the pond. A sparkler traces a glowing “W” into the air—light captured mid-motion. The tuba waits in stillness. Behind it all, quiet chemistry and soundwaves prepare to speak.
   </figcaption>
 </figure>
 
