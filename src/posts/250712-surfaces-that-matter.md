@@ -6,7 +6,7 @@ tags: post
 ---
 
 **_Not where things end, but where change begins._**  
-*On the role of surfaces in shaping interaction, signal, and intention—from quantum to human.*
+*On the role of surfaces in shaping interaction, signal, and intention.*
 
 What makes a surface?
 
