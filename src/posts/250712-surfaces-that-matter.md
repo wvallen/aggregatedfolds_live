@@ -26,9 +26,9 @@ Rhodopsin is one of the simplest and most stunning examples. Found in the membra
 
 Signal doesn’t just transmit. It moves.
 
-*Ciliates* like *Tetrahymena* and *Paramecium* are built on this principle. Their surfaces are alive with cilia—tiny, coordinated appendages that ripple in waves to propel the organism forward. They don’t just respond to their environment; they traverse it. Surface-bound sensors detect gradients of heat, light, or chemical cues. If the signal fits, they turn. They act. The entire organism is a pulsing surface—designed to sense, decide, and move.
+Ciliates like *Tetrahymena* and *Paramecium* are built on this principle. Their surfaces are alive with cilia—tiny, coordinated appendages that ripple in waves to propel the organism forward. They don’t just respond to their environment; they traverse it. Surface-bound sensors detect gradients of heat, light, or chemical cues. If the signal fits, they turn. They act. The entire organism is a pulsing surface—designed to sense, decide, and move.
 
-Humans scale this even further. Our vocal cords form modulated surfaces that sculpt air into sound. That sound, carried as a pressure wave, travels outward until it strikes another person’s **tympanic membrane**—the eardrum—initiating mechanical movement, then neural firing, then meaning. A vibration of tissue becomes a story, a warning, a song. Our bodies are covered in surfaces that do this kind of work: eyes that receive photons, skin that feels temperature, hands that learn by touch. But even our expressions, our gestures, our posture—these are surfaces that communicate without sound.
+Humans scale this even further. Our vocal cords form modulated surfaces that sculpt air into sound. That sound, carried as a pressure wave, travels outward until it strikes another person’s tympanic membrane—the eardrum—initiating mechanical movement, then neural firing, then meaning. A vibration of tissue becomes a story, a warning, a song. Our bodies are covered in surfaces that do this kind of work: eyes that receive photons, skin that feels temperature, hands that learn by touch. But even our expressions, our gestures, our posture—these are surfaces that communicate without sound.
 
 We don’t just emit signals. We receive them. And over time, we learn which ones to let in.
 
