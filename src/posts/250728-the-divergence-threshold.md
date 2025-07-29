@@ -29,7 +29,7 @@ Of course, not everything decides. An atom bonding doesn’t weigh alternatives�
 
 Enzymes go further. Their shape defines function. They grip molecules with uncanny precision. But still—no choice, only collision.
 
-Then there’s Tetrahymena, a single-celled swimmer. When it reverses in response to gradients or charge, it isn’t merely reacting—it’s adjusting. The response is conditional. It smells of choice.
+Then there’s *Tetrahymena*, a single-celled swimmer. When it reverses in response to gradients or charge, it isn’t merely reacting—it’s adjusting. The response is conditional. It smells of choice.
 
 And then there’s me. A human with memory and motive. Who decided to build a deck. I chose its place, sourced the materials, judged the grain, placed the fasteners. That wasn’t inevitable. It was authored.
 
