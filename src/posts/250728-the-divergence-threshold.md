@@ -1,5 +1,5 @@
 ---
-title: 250728 - the divergence threshold
+title: 250728 - The Divergence Threshold
 date: 2025-07-28
 layout: post.njk
 tags: post
