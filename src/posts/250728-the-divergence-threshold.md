@@ -6,7 +6,7 @@ tags: post
 image: /images/deck-build-woodland-2025.jpeg
 ---
 
-**_(the divergence threshold)_**  
+**_(where the lattice thickens)_**  
 *On Causal Structures, Temporal Agency, and the Geometry of Choosing*
 
 I was sitting on my newly built deck at w\.oodland, thinking about permanence. If I build this deck well enough, will it still be here in ten, twenty, thirty years? Or will the rains erode it, the sun warp it, or time simply unmake it board by board, like some quiet unraveling by barefoot entropy? This rectangle of treated pine and galvanized screws is my cathedral for now. But I can't help wondering—what else could have been built here instead?
