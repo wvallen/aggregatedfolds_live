@@ -31,6 +31,6 @@ Memory feels like its own kind of recombination. Every challenge, every joy, eve
 
 This is what adaptation really is. Antibodies diversify with every new exposure. So do we. We’re not designed to be fixed. We’re designed to meet the unknown and make something out of it.
 
-That’s why Woodland matters. It’s not just a place to escape; it’s an immune organ of my own making, a quiet factory for what comes next. Every project here—every beam, every shifted doorway, every late-night stretch of thought—is a rearrangement, a way of stockpiling the raw material for whatever I will need to face.
+That’s why Woodland matters. It’s not just a place for escape; it’s an immune organ of my own making, a quiet factory for what comes next. Every project here—every beam, every shifted doorway, every late-night stretch of thought—is a rearrangement, a way of stockpiling the raw material for whatever I will need to face.
 
 Above me, stars burn holes through the dark, unblinking. The frogs keep their restless chorus. And I think of my B cells, working in silence, rewriting their codes in an endless rehearsal for survival. In them, I see the shape of my own task: to keep revising, to keep adapting, to trust that I am not finished. I am an unfinished repertoire, and that is exactly what I am meant to be.
