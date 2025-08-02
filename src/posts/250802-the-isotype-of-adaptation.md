@@ -9,7 +9,7 @@ image: /images/your-image.jpeg
 **_(edits in marrow, edits in mind)_**  
 *On VDJ Recombination, Human Memory, and the Art of Adaptation*
 
-Woodland is living up to everything I hoped it would be. The deck is done—fresh pine under my feet, the night air thick with the sound of tree frogs, and above me, stars burn holes through the dark, unblinking. It is the kind of night where the world’s noise fades far enough away that you can finally hear yourself think. And tonight, my thoughts go to one of the most astonishing pieces of biology I have ever learned: VDJ recombination.
+Woodland is living up to everything I hoped it would be. The deck is done—fresh pine under my feet, the night air thick with the sound of tree frogs. It’s the kind of night where the world’s noise fades far enough away that you can finally hear yourself think. And tonight, my thoughts go to one of the most astonishing pieces of biology I have ever learned: VDJ recombination.
 
 If there was ever a process that convinced me biology could be both wild and exquisitely precise, this was it. Back at Illinois, the late Professor Roderick MacLeod’s lectures on immunology were a kind of initiation. His thick Scottish accent carried an authority that made even the most abstract molecular diagrams feel solid. And in Janeway’s Immunobiology, those diagrams weren’t just illustrations; they were blueprints—maps of a hidden order I could study until it felt almost knowable.
 
