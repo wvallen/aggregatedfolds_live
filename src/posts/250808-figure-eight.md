@@ -3,7 +3,7 @@ title: 250808 — Figure Eight
 date: 2025-08-08
 layout: post.njk
 tags: post
-image: /images/250807-sturgeon-moon-SD-480p.mov
+image: /images/250807-sturgeon-moon.mp4
 ---
 
 *(the waist of the loop)*  
@@ -12,7 +12,9 @@ image: /images/250807-sturgeon-moon-SD-480p.mov
 Some alignments feel like the world leaning in with a half-smile. Tonight was 8/8; the sun set at 8:00 pm; the Sturgeon Moon rose at 8:00 pm. Stacked eights in the same instant. Out here at Woodland, time runs just slow enough for these coincidences to show themselves as patterns worth keeping. The moon climbed from left to right while the west dimmed on schedule, two motions bound to the same moment, sketching a quiet figure in the sky.
 
 <figure class="media">
-  {% video "/images/250807-sturgeon-moon-SD-480p.mov", null, "Sturgeon Moon timelapse over Woodland" %}
+  <video src="/images/250807-sturgeon-moon.mp4" autoplay muted loop playsinline>
+    Sorry, your browser doesn’t support embedded videos.
+  </video>
   <figcaption>
     Figure 1. Stacked eights caught on camera: 8/8, 8:00 sunset, 8:00 moonrise.  
     Proof that the sky occasionally underlines its own footnotes.
