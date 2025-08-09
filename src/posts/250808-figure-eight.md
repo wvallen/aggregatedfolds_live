@@ -12,7 +12,7 @@ image: /images/250807-sturgeon-moon.mp4
 Some alignments feel like the world leaning in with a half-smile. Tonight was 8/8; the sun set at 8:00 pm; the Sturgeon Moon rose at 8:00 pm. Stacked eights in the same instant. Out here at Woodland, time runs just slow enough for these coincidences to show themselves as patterns worth keeping. The moon climbed from left to right while the west dimmed on schedule, two motions bound to the same moment, sketching a quiet figure in the sky.
 
 <figure class="media">
-  <video src="/images/250807-sturgeon-moon.mp4" autoplay muted loop playsinline>
+  <video src="/images/250807-sturgeon-moon.mp4" autoplay muted loop playsinline style="max-width:100%; height:auto; display:block; margin:auto;">
     Sorry, your browser doesn’t support embedded videos.
   </video>
   <figcaption>
