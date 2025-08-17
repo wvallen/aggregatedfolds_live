@@ -8,6 +8,7 @@ description: "Stacked eights—8/8, 8:00 sunset, 8:00 moonrise—as a meditation
 tagline: "Two loops, one threshold."
 ---
 
+**_(two loops, one threshold)_**
 **On stacked eights, out-of-order futures, and why variety keeps the landing from breaking**
 
 Some alignments feel like the world leaning in with a half-smile. Tonight was 8/8; the sun set at 8:00; the Sturgeon Moon rose at 8:00. Stacked eights, one moment. Out here at Woodland, time moves slow enough for coincidences to settle into pattern. The moon climbed left to right while the west dimmed on schedule—two motions bound to one moment, sketching a quiet figure in the sky.
