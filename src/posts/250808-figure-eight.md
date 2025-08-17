@@ -4,8 +4,6 @@ date: 2025-08-08
 layout: post.njk
 tags: post
 image: /images/250807-sturgeon-moon.mp4
-description: "Stacked eights—8/8, 8:00 sunset, 8:00 moonrise—as a meditation on thresholds, handoffs, and why variety keeps the landing from breaking."
-tagline: "Two loops, one threshold."
 ---
 
 **_(two loops, one threshold)_**
