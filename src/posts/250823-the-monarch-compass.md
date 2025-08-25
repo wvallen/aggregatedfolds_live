@@ -42,7 +42,6 @@ I am planting milkweed to keep that system intact. Stems in the ground now. Seed
 - **Taste**: Milkweed’s **cardenolides** (Na⁺/K⁺‑ATPase inhibitors) often taste **bitter**. Predators learn quickly—sometimes only once. Bitterness is a molecule‑level stop sign.
 - **Field**: A light‑dependent **inclination compass** in the antennae couples ultraviolet/blue light to a magnetic bearing. Planet‑scale physics reduced to a heading.
 
-
 The science points toward a simple practice. Weak signals can direct a journey if the system is built to preserve and average them. Monarchs combine a clock and a field sensor and give each one the conditions it needs: blue light for cryptochrome, stable cycles for timekeeping, room in the nervous system to integrate the results. Guidance is rarely a single clue. It is a set that aligns often enough to act on.
 
 There is a human analogue here. We live among faint cues. Most arrive quietly. We can design our own ensemble: habits that stabilize attention, routines that keep timing honest, conditions that make the right signal visible. The work is to notice small consistencies, protect them long enough to accumulate, and move when they agree. 
@@ -50,6 +49,5 @@ There is a human analogue here. We live among faint cues. Most arrive quietly. W
 Design one habit that keeps your clock honest, one cue that makes the field visible. Then average.
 
 Soon an adult will test its wing above a fence line and choose a line that many others are choosing at the same time. My part is clear and local. Plant the milkweed. Keep it going. Pay closer attention to guidance when it is quiet. When the instruments line up: clock, field, conditions, take the next step and let the larger tide do what it does.
-
 
 Basically, **Listen for signs from the universe.** 
