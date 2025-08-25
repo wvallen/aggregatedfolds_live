@@ -50,4 +50,4 @@ Design one habit that keeps your clock honest, one cue that makes the field visi
 
 Soon an adult will test its wing above a fence line and choose a line that many others are choosing at the same time. My part is clear and local. Plant the milkweed. Keep it going. Pay closer attention to guidance when it is quiet. When the instruments line up: clock, field, conditions, take the next step and let the larger tide do what it does.
 
-Basically, **Listen for signs from the universe.** 
+Basically, **listen for signs from the universe.** 
