@@ -10,15 +10,15 @@ tags: post
 
 I left Woodland for a stretch of weeks in New York. Out there, among the fields, the roads run straight, bordered by crops and power lines, time marked by the regularity of planting and harvest. Here, among the towers, everything is layered: geology and harbor, surveyor’s grids, steel frames, financial abstractions. I came to write, to think, to work through experiments that keep asking more questions than they resolve. Above all, I came to search for the next breakthrough, or at least for the conditions that let one appear.
 
-Science is a patient collector of origins. Some ideas are sparks that ignite cascades, whole domains branching from a simple insight. Others flare brightly for a time and then vanish, leaving only the faint trace of their names in textbooks. The history of phlogiston is as much a part of science as the resistor, though only one became a causal set that opened entire new domains of possibility. Phlogiston was a theory of combustion that imagined a weightless substance released when things burned. For decades it explained fire and rust, until oxygen chemistry overturned it entirely. The effort was real, the connectivity wide, but the recursion was empty. The resistor, by contrast, was small and plain, yet inside it was a pattern that repeated. It made possible the entire stack of electronics—radios, computation, networks—an infinity folded into a strip of material.
+Science is a patient collector of origins. Some ideas are sparks that ignite cascades, whole domains branching from a simple insight. Others flare brightly for a time and then vanish, leaving only the faint trace of their names in textbooks. The history of phlogiston is as much a part of science as the resistor, though only one became a causal set that opened entire new domains of possibility. Phlogiston was a theory of combustion that imagined a weightless substance released when things burned. For decades it explained fire and rust, until oxygen chemistry overturned it entirely. The effort was real, the connectivity wide, but the recursion was empty. The resistor, by contrast, was small and plain, yet inside it was a pattern that repeated. It made possible the entire stack of electronics— radios, computation, networks— an infinity folded into a strip of material.
 
 <figure>
-  <img src="/images/woodland-crossroad.jpeg" alt="Woodland Crossroad" />
+  <img src="/images/250831-woodland-crossroad.jpeg" alt="Woodland Crossroad" />
   <figcaption><strong>Figure 1.</strong> The Woodland crossroad. Effort, continuity, and patience, but a bounded causal set. On gravel, soybeans, and staying local.</figcaption>
 </figure>
 
 <figure>
-  <img src="/images/manhattan-canyon.jpeg" alt="Manhattan Canyon" />
+  <img src="/images/250831-manhattan-canyon.jpeg" alt="Manhattan Canyon" />
   <figcaption><strong>Figure 2.</strong> The Manhattan canyon. Layered effort and recursive amplification. On geology, zoning, and reaching global scale. (Also: the world’s most expensive game of Jenga.)</figcaption>
 </figure>
 
