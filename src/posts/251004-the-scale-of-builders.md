@@ -1,5 +1,5 @@
 ---
-title: 251004 - the scale of builders
+title: 251004 - The Scale of Builders
 date: 2025-10-04
 layout: post.njk
 tags: post
