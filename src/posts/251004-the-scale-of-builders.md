@@ -21,7 +21,7 @@ At the scale of cells, about 10<sup>-6</sup> meters, those molecules gather into
 My particular personality quirk is that I thrive on building things, putting pieces together in new ways, inventing and innovating (innoventing). I join molecules with enzymes and metals with heat, welding steel with the same precision I use to fold proteins. In both, atoms cross thresholds of energy and rearrange into stability. Oxides lift, electrons leap, and new lattices form, stronger than before. Welding is chemistry made visible, a kind of kinetic patience that rewards care over force.
 
 <figure>
-  <img src="/images/251004-w-oodland-xinu-scale.jpg" alt="A small, illuminated shipping container cabin under deep twilight, its framed walls glowing warm against the night.">
+  <img src="/images/251004-w-oodland-xinu-scale.jpeg" alt="A small, illuminated shipping container cabin under deep twilight, its framed walls glowing warm against the night.">
   <figcaption>
     The cabin at w.oodland, named Xinu (printed on the side), is about six meters long. The proteins I work with are roughly ten nanometers. The ratio is ~6 &times; 10<sup>8</sup>, a clean reminder that scale stretches fast even when the work feels the same.
   </figcaption>
