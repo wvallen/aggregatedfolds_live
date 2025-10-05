@@ -7,6 +7,7 @@ image: /images/251004-w-oodland-xinu-scale.jpg
 ---
 
 **_how to hold the universe together with clamps_**
+
 *on scale, light, and the recurring urge to assemble stuff*
 
 At the smallest scale we can describe, space flickers with uncertainty. The Planck length, around 10⁻³⁵ meters, is so small that even our best equations lose confidence. Below it, distance and time stop behaving as smooth quantities, and the two great frameworks of physics (quantum mechanics and general relativity) still refuse to meet. We do not yet have the theory that unites them, the bridge between the granular and the continuous. Yet from this unresolved foundation, order insists on appearing.
