@@ -6,7 +6,7 @@ tags: post
 image: /images/harvest-balance.jpeg
 ---
 
-**_(slowly falling)_**
+**_(slowly falling)_**</br>
 *on hydrolysis, harvest, and the thin slope of life*
 
 Water is patient gravity. At fifty-five molar it outnumbers every other molecule, a silent pull that wants to dissolve the world. Every cell lives just above that descent, balanced on a narrow shelf between explosion and stillness. Too far from equilibrium and bonds would tear apart under their own potential, too close and nothing would move. Life occupies the ridge where motion continues without losing form.
