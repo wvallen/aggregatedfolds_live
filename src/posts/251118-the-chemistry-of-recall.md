@@ -1,5 +1,5 @@
 ---
-title: 251118 - the chemistry of recall
+title: 251118 - The Chemistry of Recall
 date: 2025-11-18
 layout: post.njk
 tags: post
