@@ -2,6 +2,7 @@
 title: 251130 - Crystallization Avoidance
 date: 2025-11-30
 layout: post.njk
+tags: post
 image: /images/251130-crystallization-avoidance.jpeg
 ---
 **_(stay chaotic)_**  
