@@ -8,7 +8,7 @@ image: /images/251130-crystallization-avoidance.jpeg
 **_(stay chaotic)_**  
 *on interfaces, crystallization, and tiny cold feet*
 
-The snow arrived early in the morning and kept falling for hours. It softened the contours of w.oodland and turned everything into a slow conversation between water and temperature. Four white-crowned sparrows wandered toward the ridge of loose snow where I had scattered chicken feed. Their feet pressed straight into the cold surface as if it were nothing more than another texture. I watched them through the glass slidingdoor while the kettle warmed on the stove.
+The snow arrived early in the morning and kept falling for hours. It softened the contours of w.oodland and turned everything into a slow conversation between water and temperature. Four white-crowned sparrows wandered toward the ridge of loose snow where I had scattered chicken feed. Their feet pressed straight into the cold surface as if it were nothing more than another texture. I watched them through the sliding glassdoor while the kettle warmed on the stove.
 
 <figure>
   <img src="/images/251130-crystallization-avoidance.jpeg" alt="Four birds on a snowy ridge at w.oodland">
