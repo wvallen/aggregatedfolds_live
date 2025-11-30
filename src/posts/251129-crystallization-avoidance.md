@@ -13,7 +13,7 @@ The snow arrived early in the morning and kept falling for hours. It softened th
 <figure>
   <img src="/images/251130-crystallization-avoidance.jpeg" alt="Four birds on a snowy ridge at w.oodland">
   <figcaption>
-    Winter visitors at w.oodland, 2025. White-crowned sparrows feeding along a snowy drift at w.oodland. Their feet rest on ice while their bodies stay warm through countercurrent heat exchange, a small daily proof that phase transitions can be negotiated rather than surrendered to.
+    Winter visitors at w.oodland, 2025. White-crowned sparrows feeding along a snowy drift at w.oodland. Their feet rest on ice while their bodies stay warm through countercurrent heat exchange, a small daily proof that phase transitions can be negotiated with rather than surrendered to.
   </figcaption>
 </figure>
 
