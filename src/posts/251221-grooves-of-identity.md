@@ -23,6 +23,13 @@ Different purposes, similar mechanics. Constraint matters, repetition matters. Y
 
 Grooves form when expectations become reliable. The nervous system learns which actions reduce uncertainty and which ones amplify it. Attention narrows toward what matters here. Alternatives don’t disappear, but they stop competing so loudly. Movement feels smoother because fewer internal corrections are required.
 
+<figure>
+  <img src="/images/251221-grooves-of-identity.jpeg" alt="Interior of Poly Clean Center laundromat with chairs and laundry carts in afternoon light">
+  <figcaption>
+    Poly Clean Center, Mountain Home, Arkansas, 2025. A space organized around repeated cycles of return and pause. Constraint and predictability reduce uncertainty, allowing social grooves to persist even as the people moving through them change.
+  </figcaption>
+</figure>
+
 At the molecular level, this process is well described.
 
 Dopamine signaling participates by updating predictions about outcomes. Rather than tracking pleasure directly, dopamine reports whether results match expectation and whether a pattern of action should be reinforced. When the same social moves consistently resolve prediction error, those moves stabilize. The system leans into them. Less recalculation is needed *(PMID: 27069377; PMID: 33197709)*.
@@ -40,13 +47,6 @@ Plasticity remains throughout life, though it becomes more selective. With exper
 I thought about this while standing in the Poly Clean Center in Mountain Home, Arkansas. I’ve been coming to this laundromat, on and off, for more than twenty years. It hasn’t changed much. The machines run their familiar cycles. The chairs are still placed for waiting that has a known duration. The rhythm of the room is intact.
 
 I am not.
-
-<figure>
-  <img src="/images/251221-grooves-of-identity.jpeg" alt="Interior of Poly Clean Center laundromat with chairs and laundry carts in afternoon light">
-  <figcaption>
-    Poly Clean Center, Mountain Home, Arkansas, 2025. A space organized around repeated cycles of return and pause. Constraint and predictability reduce uncertainty, allowing social grooves to persist even as the people moving through them change.
-  </figcaption>
-</figure>
 
 Standing there again made it easy to feel how grooves accumulate quietly. I’ve moved through that same room carrying different assumptions about effort, belonging, and reward. The place kept its timing. My expectations shifted. The groove stayed available, even as the version of me that fit it best changed.
 
