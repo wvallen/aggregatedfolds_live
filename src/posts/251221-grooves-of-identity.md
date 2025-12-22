@@ -1,12 +1,12 @@
 ---
-title: 251220 - Grooves of Identity
-date: 2025-12-20
+title: 251221 - Grooves of Identity
+date: 2025-12-21
 layout: post.njk
 tags: post
-image: /images/251220-grooves-of-identity.jpeg
+image: /images/251221-grooves-of-identity.jpeg
 ---
 **_(stay attentive)_**  
-*on social synchronization, memory, and the molecular logic of belonging*
+*On social synchronization, memory, and the molecular logic of belonging*
 
 Some environments make it easier to stay in motion. Not because they agree with you or motivate you, but because they quietly reduce the work required to decide what comes next. Timing settles. Effort lands. You stop renegotiating each step.
 
@@ -42,7 +42,7 @@ I thought about this while standing in the Poly Clean Center in Mountain Home, A
 I am not.
 
 <figure>
-  <img src="/images/251220-grooves-of-identity.jpeg" alt="Interior of Poly Clean Center laundromat with chairs and laundry carts in afternoon light">
+  <img src="/images/251221-grooves-of-identity.jpeg" alt="Interior of Poly Clean Center laundromat with chairs and laundry carts in afternoon light">
   <figcaption>
     Poly Clean Center, Mountain Home, Arkansas, 2025. A space organized around repeated cycles of return and pause. Constraint and predictability reduce uncertainty, allowing social grooves to persist even as the people moving through them change.
   </figcaption>
