@@ -42,6 +42,6 @@ And not everyone is sailing the same ocean. Some bring their cargo to port citie
 
 But for me, this solstice sun, this long light that bends through the Swedish sky, reminds me that even when I cannot see the horizon, I am still guided. That the fold continues. That the ship is not finished, and never will be.
 
-Lately, I’ve felt lost again. Like I’m mid-journey with no shore in sight. But I return to this thought, which I wrote once in a quiet moment, and which keeps returning to me now, like a beacon:
+Lately, I’ve felt lost again. Like I’m mid-journey with no shore in sight. But I return to a quote caught from the information stream, and which keeps returning to me now, like a beacon:
 
 *Only the ones who’ve felt lost at sea can know what landfall means.*
