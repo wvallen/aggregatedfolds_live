@@ -7,7 +7,7 @@ image: /images/none.jpeg
 ---
 
 **_(noticing the grooves)_**  
-*On attention, bodily state, and the quiet difference between drifting and choosing.*
+*On attention, bodily state, and the quiet difference between drifting and choosing*
 
 Happy New Year.
 
