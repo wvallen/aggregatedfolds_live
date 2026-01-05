@@ -96,22 +96,58 @@ button:hover {
     padding-top: var(--header-height);
   }
 }
-img {
-  max-width: 100%;
-  height: auto;
-  display: block;
-  margin: 2rem auto;
-}
-figure {
-  max-width: 100%;
-  margin: 2rem auto;
-  padding: 0;
-  text-align: center;
+
+/* -------------------------------------------------
+   Aggregated Folds table styling
+   ------------------------------------------------- */
+
+.content table,
+main table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 2.5rem 0;
+  font-size: 0.95em;
+  line-height: 1.4;
 }
 
-figcaption {
-  font-size: 0.9rem;
-  color: #555;
-  font-style: italic;
-  margin-top: 0.5rem;
+.content thead th,
+main thead th {
+  border-bottom: 1px solid #000;
+  padding: 0.5rem 0.75rem;
+  text-align: left;
+  vertical-align: bottom;
+  font-weight: 600;
+}
+
+.content tbody tr,
+main tbody tr {
+  border-bottom: 1px solid #ddd;
+}
+
+.content tbody tr:last-child,
+main tbody tr:last-child {
+  border-bottom: 1px solid #000;
+}
+
+.content td,
+main td {
+  padding: 0.5rem 0.75rem;
+  vertical-align: top;
+}
+
+/* subtle column separation without boxing */
+.content td + td,
+.content th + th,
+main td + td,
+main th + th {
+  border-left: 1px solid #eee;
+}
+
+/* anchor first column (attention mode) */
+.content td:first-child,
+.content th:first-child,
+main td:first-child,
+main th:first-child {
+  font-weight: 600;
+  white-space: nowrap;
 }
