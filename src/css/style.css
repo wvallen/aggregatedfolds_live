@@ -151,3 +151,26 @@ main th:first-child {
   font-weight: 600;
   white-space: nowrap;
 }
+/* -------------------------------------------------
+   Post media: keep images inside the text column
+   ------------------------------------------------- */
+
+main img,
+.content img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+/* If your markdown wraps images in <figure>, keep that constrained too */
+main figure,
+.content figure {
+  margin: 2rem 0;
+  max-width: 100%;
+}
+
+/* In case some template sets img width larger than container */
+main figure img,
+.content figure img {
+  width: 100%;
+}
