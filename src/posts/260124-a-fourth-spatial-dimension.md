@@ -33,6 +33,6 @@ Watching this feels familiar without being symbolic. Some relationships cohere a
 
 What I appreciate about the system is how little it explains and how much it shows. The space carries enough structure to guide outcomes. Coherence appears through accumulation. Movement appears through drift. Both belong to the same dynamics.
 
-Which leaves me with an add-on question I keep returning to. If a relational topology includes randomness, history, and responsiveness, then what exactly is serendipity. Is it something extra, or simply what alignment looks like when conditions happen to cooperate for a while.
+Which leaves me with an add-on question- if a relational topology includes randomness, history, and responsiveness, then what exactly is serendipity? Is it something extra, or simply what alignment looks like when conditions happen to cooperate for a while.
 
 I leave the system running.
