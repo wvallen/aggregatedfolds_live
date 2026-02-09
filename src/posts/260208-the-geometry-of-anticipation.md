@@ -1,5 +1,5 @@
 ---
-title: 260209 – The Geometry of Anticipation
+title: 260208 – The Geometry of Anticipation
 date: 2026-02-08
 layout: post.njk
 tags: post
@@ -61,9 +61,7 @@ Only after this plateau does dissipation begin.
 
 Emotional amplitude decays. Attention dephases. Energy exits through relief, disappointment, satisfaction, fatigue, or quiet neutrality. Boundaries soften. The field relaxes. What remains is residue. A shared trace. A remembered shape. A path worn just deeply enough to be followed again.
 
-The geometry scales.
-
-Neural anticipation resolving after stimulus. Group anticipation resolving after outcome. Cultural rituals resolving after repetition. The same structure traced across domains, carried by timing, coupling, and decay.
+The geometry scales- neural anticipation resolving after stimulus, group anticipation resolving after outcome, cultural rituals resolving after repetition. The same structure traced across domains, carried by timing, coupling, and decay.
 
 ---
 <figure class="figure">
