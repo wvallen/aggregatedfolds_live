@@ -3,6 +3,7 @@ title: 260214 – Non-Zero Probability
 date: 2026-02-14
 layout: post.njk
 tags: post
+image: /images/x.jepg
 ---
 
 **_(love me)_**  
