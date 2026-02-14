@@ -7,8 +7,13 @@ layout: post.njk
 **_(love me)_**  
 *On love, signal, and probability*
 
-<figure>
-  <video src="/images/260214-non-zero-probability.mp4" controls></video>
+<figure class="media">
+  <video
+    src="/images/260214-non-zero-probability.mp4"
+    controls
+    playsinline
+    style="max-width:100%; height:auto; display:block; margin:auto;">
+  </video>
   <figcaption>Figure 1.</figcaption>
 </figure>
 
