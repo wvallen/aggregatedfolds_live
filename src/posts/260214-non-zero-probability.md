@@ -3,7 +3,7 @@ title: 260214 – Non-Zero Probability
 date: 2026-02-14
 layout: post.njk
 tags: post
-image: /images/260208-a-social-attractor.jepg
+image: /images/none.jpeg
 ---
 
 **_(love me)_**  
@@ -16,53 +16,79 @@ image: /images/260208-a-social-attractor.jepg
 
 I played Holst’s *Jupiter* while Jupiter held its place above the trees.
 
-The tuba sent pressure waves into cold air. Those waves moved through nearby molecules and dissipated quickly. Sound requires a medium. It remains local.
+The tuba sent pressure waves into cold air. Those waves leaned on nearby molecules, then thinned out fast. Sound asks for a medium. It stays local.
 
-Light travels on.
+Light behaves differently.
 
-The light reaching my eyes from Jupiter left its cloud tops tens of minutes earlier. It travels at
+The light reaching my eyes from Jupiter left its cloud tops tens of minutes earlier. It rides at a speed that stays steady:
 
-\[
-c = 3 \times 10^8 \ \text{m/s}
-\]
+<figure>
+<pre style="font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace; font-size: 0.95rem; line-height: 1.35; padding: 0.75rem 1rem; border: 1px solid rgba(0,0,0,0.15); border-radius: 8px; overflow-x: auto;">
+c = 3 × 10^8  m/s
+</pre>
+<figcaption>
+Equation 1. Light speed, the clock that makes “tens of minutes earlier” feel physical.
+</figcaption>
+</figure>
 
-as a continuously expanding spherical wave. At any given moment, the electromagnetic field occupies an immense sphere centered on its source. As that sphere grows, the same energy distributes across an ever-increasing surface area,
+Think of emission as a wavefront expanding outward. At any instant, energy occupies a huge sphere centered on its source. As the radius grows, the surface area grows too:
 
-\[
-A = 4\pi r^2
-\]
+<figure>
+<pre style="font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace; font-size: 0.95rem; line-height: 1.35; padding: 0.75rem 1rem; border: 1px solid rgba(0,0,0,0.15); border-radius: 8px; overflow-x: auto;">
+A = 4π r^2
+</pre>
+<figcaption>
+Equation 2. A sphere’s surface area, where the same energy must spread as distance grows.
+</figcaption>
+</figure>
 
-and the intensity scales accordingly,
+So the intensity at distance *r* falls with the familiar inverse-square:
 
-\[
-I \propto \frac{1}{r^2}
-\]
+<figure>
+<pre style="font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace; font-size: 0.95rem; line-height: 1.35; padding: 0.75rem 1rem; border: 1px solid rgba(0,0,0,0.15); border-radius: 8px; overflow-x: auto;">
+I ∝ 1 / r^2
+</pre>
+<figcaption>
+Equation 3. Dilution with distance. Spreading, attenuation, persistence.
+</figcaption>
+</figure>
 
-This expansion is continuous. The field propagates smoothly. If we isolate emission over a brief interval of time \( \Delta t \), that portion of the field occupies a shell of thickness \( c\,\Delta t \). Compared with the astronomical radius of the sphere, that thickness becomes negligible.
+The “shell” picture helps here.
 
-My pupil intercepts only a minute patch of that expanding surface. The retina integrates the incoming field over tens of milliseconds. Billions of oscillations pass during that window. Electrical signals accumulate. Perception emerges from temporal integration of a continuous wave.
+Pick a tiny time window, Δt. During that interval, the wavefront advances by a thickness cΔt. Compared with the Jupiter-scale radius, the thickness looks vanishingly thin, like a skin sliding through space. If Δt shrinks, the skin shrinks with it, and the picture approaches a continuous flow. A stream of thin shells, stacked so densely that the stack becomes a field.
 
-After lowering the instrument, I lifted my headlamp toward Jupiter. The light leaving the lamp propagated outward under the same equations. Its field expanded as a sphere centered on me. At the orbit of Jupiter, the surface area of that sphere is vast. The fraction intersecting the planet becomes extraordinarily small.
+My pupil catches a small patch of one of those shells. My retina integrates incoming light over tens of milliseconds. In that window, the electromagnetic field oscillates billions of times. Perception comes from integration: time turns waves into signal.
 
-Extraordinarily small is non-zero.
+After I lowered the instrument, I lifted my headlamp toward Jupiter.
 
-Quantum mechanics expresses this through probability amplitude,
+Same geometry. Same spreading. Same inverse-square dilution. By the time the headlamp’s wavefront reaches Jupiter’s orbit, the sphere is enormous. The fraction intersecting Jupiter’s disk becomes absurdly small.
 
-\[
-P = |\psi|^2
-\]
+Absurdly small still carries a value.
 
-Where amplitude exists, probability exists. The magnitude may approach practical insignificance while remaining present in the formal description. A photon emitted from a small source on Earth carries non-zero probability of interacting with matter across astronomical distance.
+In quantum mechanics, we keep track of that idea with amplitude:
 
-Gravity follows similar mathematics. Gravitational influence weakens with distance and continues to curve motion. A slight perturbation applied repeatedly alters an orbit over time. The deviation per revolution may appear negligible. Integrated across many revolutions, the system acquires a new orientation.
+<figure>
+<pre style="font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace; font-size: 0.95rem; line-height: 1.35; padding: 0.75rem 1rem; border: 1px solid rgba(0,0,0,0.15); border-radius: 8px; overflow-x: auto;">
+P = |ψ|^2
+</pre>
+<figcaption>
+Equation 4. Probability from amplitude. Geometry spreads the wave thin; it still occupies space.
+</figcaption>
+</figure>
 
-Neural systems operate through accumulation as well. Synaptic inputs arrive as electrical pulses. Membrane potentials integrate across space and time. Repeated signals redistribute probability across networks. Patterns stabilize. Identity forms through continuous exposure to fields of influence.
+That is the hinge I keep coming back to. Distance makes signals faint. Time makes them delayed. Physics keeps carrying them forward anyway.
 
-Under this lens, experience becomes intersection with expanding waves. Attention is integration across time. A life is shaped by countless small contributions — some intense, some faint — each spreading outward, each intersecting structure, each carrying weight proportional to its amplitude.
+Gravity feels like a cousin to this. It weakens with distance, yet it keeps bending trajectories. A small perturbation applied once barely registers. Applied repeatedly, it becomes a new orbit.
 
-Standing beneath Jupiter, playing toward it, I participated in that exchange. Sound remained near. Light traveled outward. Light traveled inward. Fields expanded through space, thinning with distance and persisting within geometry.
+Brains behave the same way. Synaptic inputs arrive, integrate, accumulate. Tiny pushes add up. Patterns stabilize. Identity forms through exposure to fields of influence, sustained over time.
 
-The equations allow vanishingly small values. They continue to carry them forward.
+So the night becomes one exchange:
+
+Sound out into the near air.  
+Light in from a far world.  
+Light out from a small lamp.  
+Wavefronts expanding, thinning, arriving.  
+A life, shaped the same way.
 
 <br><br>
 
