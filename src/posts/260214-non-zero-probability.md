@@ -1,18 +1,15 @@
 ---
 title: 260214 – Non-Zero Probability
-date: 2026-02-13
+date: 2026-02-14
 layout: post.njk
 tags: post
-image: /images/x.jepg
+image: /images/none.jpeg
 ---
 
 **_(love me)_**  
 *On love, signal, and probability*
 
-<figure>
-  <video src="/images/260214-non-zero-probability.mp4" controls></video>
-  <figcaption>Figure 1.</figcaption>
-</figure>
+
 
 I played Holst’s *Jupiter* while Jupiter held its place above the trees.
 
