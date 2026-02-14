@@ -3,7 +3,6 @@ title: 260214 – Non-Zero Probability
 date: 2026-02-14
 layout: post.njk
 tags: post
-image: /images/260208-a-social-attractor.jepg
 ---
 
 **_(love me)_**  
@@ -16,29 +15,41 @@ image: /images/260208-a-social-attractor.jepg
 
 I played Holst’s *Jupiter* while Jupiter held its place above the trees.
 
-The tuba sent pressure waves into cold air. Those waves leaned on nearby molecules, then thinned out fast. Sound asks for a medium. It stays local.
+The tuba sent pressure waves into cold air. Those waves moved through nearby molecules and dissipated quickly. Sound requires a medium. It remains local.
 
-Light travels on.
+Light does not.
 
 The light reaching my eyes from Jupiter left its cloud tops tens of minutes earlier. It travels at
+
+<br>
 
 \[
 c = 3 \times 10^8 \ \text{m/s}
 \]
 
+<br>
+
 as a continuously expanding spherical wave. At any given moment, the electromagnetic field occupies an immense sphere centered on its source. As that sphere grows, the same energy distributes across an ever-increasing surface area,
+
+<br>
 
 \[
 A = 4\pi r^2
 \]
 
+<br>
+
 and the intensity scales accordingly,
+
+<br>
 
 \[
 I \propto \frac{1}{r^2}
 \]
 
-This expansion is continuous. The field propagates smoothly. If we isolate emission over a brief interval of time \( \Delta t \), that portion of the field occupies a shell of thickness \( c\,\Delta t \). Compared with the astronomical radius of the sphere, that thickness becomes negligible.
+<br>
+
+Nothing about this expansion is discrete. The field propagates smoothly. If we isolate emission over a brief interval of time \( \Delta t \), that portion of the field occupies a shell of thickness \( c\,\Delta t \). Compared with the astronomical radius of the sphere, that thickness becomes negligible.
 
 My pupil intercepts only a minute patch of that expanding surface. The retina integrates the incoming field over tens of milliseconds. Billions of oscillations pass during that window. Electrical signals accumulate. Perception emerges from temporal integration of a continuous wave.
 
@@ -48,9 +59,13 @@ Extraordinarily small is non-zero.
 
 Quantum mechanics expresses this through probability amplitude,
 
+<br>
+
 \[
 P = |\psi|^2
 \]
+
+<br>
 
 Where amplitude exists, probability exists. The magnitude may approach practical insignificance while remaining present in the formal description. A photon emitted from a small source on Earth carries non-zero probability of interacting with matter across astronomical distance.
 
@@ -97,6 +112,6 @@ waveform
 
 <br>
 
-–w–
+–W–
 
 </div>
