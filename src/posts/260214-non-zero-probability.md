@@ -2,10 +2,8 @@
 title: 260214 – Non-Zero Probability
 date: 2026-02-14
 layout: post.njk
-tags:
-  - post
-image: /images/none.jpeg
-permalink: /posts/260214-non-zero-probability/
+tags: post
+image: /images/260208-a-social-attractor.jepg
 ---
 
 **_(love me)_**  
