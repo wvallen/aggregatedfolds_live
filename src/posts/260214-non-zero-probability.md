@@ -18,71 +18,73 @@ tags: post
   <figcaption>Figure 1.</figcaption>
 </figure>
 
-I played Holst’s *Jupiter* while Jupiter held its place above the trees.
+I played Holst’s <em>Jupiter</em> while Jupiter held its place above the trees.
 
-The tuba sent pressure waves into cold air. Those waves moved through nearby molecules and dissipated quickly. Sound requires a medium. It remains local.
+The tuba sent pressure waves into cold air. They marched through nearby molecules, spent their energy as heat, and folded back into quiet. Sound needs a medium. It lives close to where it is made.
 
 Light does not.
 
-The light reaching my eyes from Jupiter left its cloud tops tens of minutes earlier. It travels at
+The light reaching my eyes from Jupiter left its cloud tops tens of minutes earlier. It arrives as an electromagnetic field propagating at
 
-<br>
+<div class="eq">
+  c = 3 × 10<sup>8</sup> m/s
+</div>
 
-\[
-c = 3 \times 10^8 \ \text{m/s}
-\]
+and it does what waves do when nothing stops them: it expands.
 
-<br>
+A flash, a glint, a steady glow from a planet becomes a growing sphere centered on its source. At radius <span class="eqi">r</span>, that sphere carries its power across a surface area
 
-as a continuously expanding spherical wave. At any given moment, the electromagnetic field occupies an immense sphere centered on its source. As that sphere grows, the same energy distributes across an ever-increasing surface area,
+<div class="eq">
+  A(r) = 4π r<sup>2</sup>
+</div>
 
-<br>
+so the intensity thins with distance,
 
-\[
-A = 4\pi r^2
-\]
+<div class="eq">
+  I(r) ∝ 1 / r<sup>2</sup>.
+</div>
 
-<br>
+This is not pixelated. It is geometry doing its simple work.
 
-and the intensity scales accordingly,
+If I isolate emission over a brief interval <span class="eqi">Δt</span>, that portion of the field occupies a shell of thickness
 
-<br>
+<div class="eq">
+  Δr = c Δt.
+</div>
 
-\[
-I \propto \frac{1}{r^2}
-\]
+Compared with astronomical radius, the shell is a razor edge, still moving, still real. My pupil intercepts only a tiny patch of the sphere. The retina integrates the incoming field over tens of milliseconds. Billions of oscillations pass through that window. Charges shift. Currents rise. A scene appears.
 
-<br>
+Perception is what integration feels like from the inside.
 
-Nothing about this expansion is discrete. The field propagates smoothly. If we isolate emission over a brief interval of time \( \Delta t \), that portion of the field occupies a shell of thickness \( c\,\Delta t \). Compared with the astronomical radius of the sphere, that thickness becomes negligible.
+After lowering the instrument, I lifted my headlamp toward Jupiter. The lamp emitted its own outward sphere under the same equations. At Jupiter’s orbit, the surface area of that sphere is immense. The fraction that could intersect the planet is absurdly small.
 
-My pupil intercepts only a minute patch of that expanding surface. The retina integrates the incoming field over tens of milliseconds. Billions of oscillations pass during that window. Electrical signals accumulate. Perception emerges from temporal integration of a continuous wave.
+Absurdly small is non-zero.
 
-After lowering the instrument, I lifted my headlamp toward Jupiter. The light leaving the lamp propagated outward under the same equations. Its field expanded as a sphere centered on me. At the orbit of Jupiter, the surface area of that sphere is vast. The fraction intersecting the planet becomes extraordinarily small.
+Quantum mechanics gives that sentence teeth. The world is described by amplitude, and amplitude carries probability. A compact signature is
 
-Extraordinarily small is non-zero.
+<div class="eq">
+  P = |ψ|<sup>2</sup>,
+</div>
 
-Quantum mechanics expresses this through probability amplitude,
+but the deeper point is quieter: wherever the wavefunction has support, the possibility of interaction persists. A photon leaving a small source on Earth may miss everything for a long time, yet the formalism still permits a meeting across astronomical distance.
 
-<br>
+A planet does not need to be likely. It only needs to be allowed.
 
-\[
-P = |\psi|^2
-\]
+Gravity shares the same mood. Influence weakens with distance, yet it keeps shaping motion. A tiny perturbation applied repeatedly changes an orbit over time. Per revolution, the deviation hides. Over many revolutions, the system reorients. The cumulative drift becomes a new path.
 
-<br>
+Neural systems live in that same arithmetic. Synaptic inputs arrive as pulses. Membrane potentials integrate across time. Repeated signals redistribute likelihood across a network. Patterns stabilize. Preference forms. Identity condenses, not as a single event, but as the long sum of small fields.
 
-Where amplitude exists, probability exists. The magnitude may approach practical insignificance while remaining present in the formal description. A photon emitted from a small source on Earth carries non-zero probability of interacting with matter across astronomical distance.
+Under this lens, experience becomes intersection with expanding waves.
 
-Gravity follows similar mathematics. Gravitational influence weakens with distance and continues to curve motion. A slight perturbation applied repeatedly alters an orbit over time. The deviation per revolution may appear negligible. Integrated across many revolutions, the system acquires a new orientation.
+Attention is integration.
 
-Neural systems operate through accumulation as well. Synaptic inputs arrive as electrical pulses. Membrane potentials integrate across space and time. Repeated signals redistribute probability across networks. Patterns stabilize. Identity forms through continuous exposure to fields of influence.
+A life is shaped by countless contributions, some loud, some faint, each spreading outward, each touching structure, each carrying weight proportional to its amplitude.
 
-Under this lens, experience becomes intersection with expanding waves. Attention is integration across time. A life is shaped by countless small contributions — some intense, some faint — each spreading outward, each intersecting structure, each carrying weight proportional to its amplitude.
+Standing beneath Jupiter, playing toward it, I participated in that exchange. Sound remained near. Light traveled outward. Light traveled inward. Fields expanded through space, thinning with distance, persisting as geometry.
 
-Standing beneath Jupiter, playing toward it, I participated in that exchange. Sound remained near. Light traveled outward. Light traveled inward. Fields expanded through space, thinning with distance and persisting within geometry.
+The equations allow vanishingly small values.
 
-The equations allow vanishingly small values. They continue to carry them forward.
+They carry them forward anyway.
 
 <br><br>
 
