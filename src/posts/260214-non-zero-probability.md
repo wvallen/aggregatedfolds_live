@@ -18,73 +18,53 @@ tags: post
   <figcaption>Figure 1.</figcaption>
 </figure>
 
-I played Holst’s <em>Jupiter</em> while Jupiter held its place above the trees.
+I played Holst’s *Jupiter* while Jupiter occupied a precise position in the sky above the trees—an alignment defined by celestial mechanics and by my own coordinates on Earth: latitude, longitude, altitude, and time.
 
-The tuba sent pressure waves into cold air. They marched through nearby molecules, spent their energy as heat, and folded back into quiet. Sound needs a medium. It lives close to where it is made.
+The light entering my eyes began as solar radiation scattered from hydrogen, helium, and layered clouds in Jupiter’s atmosphere. Those photons traveled from the Sun to Jupiter, then across roughly five astronomical units of interplanetary space to intersect a moving planet called Earth, and finally a body standing on its surface at a specific second in February 2026. The encounter between planet and retina occurred at a spacetime coordinate shared by both trajectories.
 
-Light does not.
+As electromagnetic radiation propagates, its intensity decreases with distance according to the inverse square law,
 
-The light reaching my eyes from Jupiter left its cloud tops tens of minutes earlier. It arrives as an electromagnetic field propagating at
+I ∝ 1 / r²,
 
-<div class="eq">
-  c = 3 × 10<sup>8</sup> m/s
-</div>
+because fixed energy distributes across an expanding surface area. Geometry governs the dilution. The distance from Jupiter to Earth defines the flux at that location. The area of my pupils defines the fraction intercepted.
 
-and it does what waves do when nothing stops them: it expands.
+Each photon that reached me triggered a conformational change in an opsin molecule. That molecular transition altered membrane potential in a rod or cone cell. Electrical signals propagated through bipolar and ganglion cells, along the optic nerve, into cortical circuits that integrate activity across milliseconds. A disk stabilized. Bands of color resolved. Four faint points—Io, Europa, Ganymede, Callisto—occupied positions consistent with orbital mechanics.
 
-A flash, a glint, a steady glow from a planet becomes a growing sphere centered on its source. At radius <span class="eqi">r</span>, that sphere carries its power across a surface area
+In January 1610, Galileo Galilei observed those same moons through a small refracting telescope. Night after night, he recorded their changing positions relative to Jupiter. The conclusion was structural: orbital motion could occur around bodies other than Earth. A local observation forced a reconfiguration of cosmology. Perception, when repeated and integrated, reorganizes belief.
 
-<div class="eq">
-  A(r) = 4π r<sup>2</sup>
-</div>
+Every planetary sighting is a convergence of trajectories: solar photons, planetary reflection, terrestrial rotation, neural computation. The planet appears when geometry and biology align.
 
-so the intensity thins with distance,
+After lowering the instrument, I lifted my headlamp and directed its beam toward Jupiter’s coordinates.
 
-<div class="eq">
-  I(r) ∝ 1 / r<sup>2</sup>.
-</div>
+The lamp emitted photons confined within a forward cone determined by reflector shape and filament placement. As the beam propagated outward, its energy per unit area decreased with distance under the same geometric law. At Jupiter’s orbital radius, the illuminated cross-sectional area had expanded enormously relative to its origin. The solid angle subtended by Jupiter at that distance is minute. The overlap between beam and planet is correspondingly small.
 
-This is not pixelated. It is geometry doing its simple work.
+Small in this context is calculable.
 
-If I isolate emission over a brief interval <span class="eqi">Δt</span>, that portion of the field occupies a shell of thickness
+In quantum mechanics, interaction between systems is described by a wavefunction whose squared magnitude gives the likelihood of a particular outcome:
 
-<div class="eq">
-  Δr = c Δt.
-</div>
+P = |ψ|².
 
-Compared with astronomical radius, the shell is a razor edge, still moving, still real. My pupil intercepts only a tiny patch of the sphere. The retina integrates the incoming field over tens of milliseconds. Billions of oscillations pass through that window. Charges shift. Currents rise. A scene appears.
+An interaction event—one photon from my lamp intersecting Jupiter’s atmosphere—requires spatial and temporal overlap of amplitudes. The overlap exists as long as the wavefunction retains support across those coordinates. The associated probability may be extremely low. The mathematical structure retains it.
 
-Perception is what integration feels like from the inside.
+Certain interpretations of quantum theory treat the full wavefunction as physically real. In that framework, all outcomes consistent with the governing equations persist as branches within a larger state. Branches differ in weight. None are removed from the formal object.
 
-After lowering the instrument, I lifted my headlamp toward Jupiter. The lamp emitted its own outward sphere under the same equations. At Jupiter’s orbit, the surface area of that sphere is immense. The fraction that could intersect the planet is absurdly small.
+A photon reaching Jupiter corresponds to a branch with very small measure. The geometry allows the intersection. The amplitude assigns it weight.
 
-Absurdly small is non-zero.
+If consciousness follows a single path through this branching structure, then experience traces one history among many permitted by the equations. Most histories contain dispersal of photons into interplanetary space. A smaller subset contains arrival.
 
-Quantum mechanics gives that sentence teeth. The world is described by amplitude, and amplitude carries probability. A compact signature is
+On this evening, at these coordinates, I orient my awareness toward that subset.
 
-<div class="eq">
-  P = |ψ|<sup>2</sup>,
-</div>
+Sound from the tuba remained bound to local air, dissipating within fields and tree lines. Reflected sunlight crossed astronomical distance and entered my retina. A beam from Earth extended outward toward a gas giant orbiting beyond Mars.
 
-but the deeper point is quieter: wherever the wavefunction has support, the possibility of interaction persists. A photon leaving a small source on Earth may miss everything for a long time, yet the formalism still permits a meeting across astronomical distance.
+Within the total structure of possibility, there exists a history in which one of those photons encountered Jupiter’s clouds.
 
-A planet does not need to be likely. It only needs to be allowed.
+The equations carry that history as part of the whole.
 
-Gravity shares the same mood. Influence weakens with distance, yet it keeps shaping motion. A tiny perturbation applied repeatedly changes an orbit over time. Per revolution, the deviation hides. Over many revolutions, the system reorients. The cumulative drift becomes a new path.
+A life is shaped in similar fashion. Countless interactions possess low individual weight. Repetition accumulates measure. Small overlaps alter trajectories. Neural pathways strengthen through repeated coincidence of activity. Identity emerges from the integration of events whose probabilities may once have seemed negligible.
 
-Neural systems live in that same arithmetic. Synaptic inputs arrive as pulses. Membrane potentials integrate across time. Repeated signals redistribute likelihood across a network. Patterns stabilize. Preference forms. Identity condenses, not as a single event, but as the long sum of small fields.
+Physics does not discard small terms.
 
-Under this lens, experience becomes intersection with expanding waves.
-
-Attention is integration.
-
-A life is shaped by countless contributions, some loud, some faint, each spreading outward, each touching structure, each carrying weight proportional to its amplitude.
-
-Standing beneath Jupiter, playing toward it, I participated in that exchange. Sound remained near. Light traveled outward. Light traveled inward. Fields expanded through space, thinning with distance, persisting as geometry.
-
-The equations allow vanishingly small values.
-
-They carry them forward anyway.
+It integrates them.
 
 <br><br>
 
