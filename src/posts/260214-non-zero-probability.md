@@ -18,55 +18,55 @@ tags: post
   <figcaption>Figure 1.</figcaption>
 </figure>
 
-I played Holst’s *Jupiter* while Jupiter occupied a precise position above the trees—a location determined by celestial mechanics and by my own coordinates on Earth: latitude, longitude, altitude, and time.
+I sat on my deck and played Holst’s *Jupiter* toward the sky. The tuba pushed columns of air into motion; pressure waves radiated outward, coupling molecule to molecule, diffusing into turbulence and thermal noise within a few hundred meters. Sound belongs to atmosphere. It decays as it spreads. By the time it reaches the treeline, it is already folding back into quiet.
 
-The light entering my pupils began as solar radiation scattered from Jupiter’s upper atmosphere. Those photons traveled from the Sun to Jupiter and then across roughly five astronomical units to intersect a rotating planet called Earth at a particular second in February 2026. Their trajectories and mine met at a shared spacetime coordinate.
+Jupiter hung above that treeline as a bright point. Four faint companions—its moons—hovered nearby, barely separable from the star field. No storms, no disk, only a concentrated glint. The light in that glint began as fusion in the Sun, photons born in a stellar core, random-walking outward for thousands of years before escaping into space. Those photons traveled roughly 5 astronomical units to reach Jupiter, scattered from hydrogen and ammonia clouds, and then crossed another 5 astronomical units to intersect Earth.
 
 As electromagnetic radiation propagates, its intensity decreases with distance according to the inverse square law,
 
 I ∝ 1 / r²,
 
-because fixed energy distributes across expanding area. The flux at my position depended on the separation between two planets at that moment. The fraction intercepted depended on the area of my pupils and the transparency of the atmosphere between us.
+because fixed energy distributes across expanding area. The flux reaching Earth depended on the instantaneous separation between two moving planets. The fraction reaching me depended on atmospheric transparency, pupil diameter, and the exact angle between my line of sight and Jupiter’s coordinates at that second.
 
-Each photon that reached me triggered a conformational change in an opsin molecule. That molecular event altered membrane potential, initiating electrical signals that propagated through retinal circuits into cortex. The result was simple: a bright point suspended in darkness, accompanied by several faint companions barely distinguishable from background stars. That minimal signal was enough to register presence.
+At that spacetime coordinate—latitude, longitude, altitude, timestamp—photons entered my pupils. Each photon triggered a conformational change in an opsin molecule. That molecular shift altered membrane potentials, initiating signals that traveled through retinal layers, along the optic nerve, into cortex. Neuronal circuitry integrated these discrete arrivals into a stable percept: a bright point with faint companions. My brain assembled a planet from a sparse stream of quanta.
 
-In January 1610, Galileo Galilei observed those faint companions shifting position night after night. The points of light revealed structure—moons orbiting Jupiter rather than Earth. A modest optical instrument, combined with careful repetition, altered cosmology. A small signal, integrated across evenings, reorganized understanding.
+The event felt simple. The geometry behind it was not.
 
-My own observation carried no revolution. It carried alignment.
+I sat there thinking about the path of those photons, about the arc from stellar fusion to retinal transduction, about the fact that my awareness depended on trajectories aligning across billions of kilometers and fractions of a second. The chances that any given photon from Jupiter would intersect the area defined by my pupils at that exact moment were extraordinarily small. The fact that some did is the condition of sight.
 
-After lowering the instrument, I raised my headlamp and directed its beam toward Jupiter’s coordinates.
+Sound would never carry my tuba to Jupiter. Pressure waves require a medium; interplanetary space offers vacuum. So I reached for light instead. I lifted my headlamp and flashed a single Morse character toward Jupiter—W: dot dash dash—three pulses cut into darkness.
 
-The lamp emitted photons confined within a forward cone shaped by its reflector. As the beam propagated outward, its energy per unit area diminished under the same geometric law that governed the reflected sunlight. At Jupiter’s orbital distance, the illuminated cross-sectional area had expanded enormously. The solid angle subtended by Jupiter from Earth is minute. The overlap between beam and planet is correspondingly small.
+The lamp emitted photons within a forward cone shaped by reflector geometry. As the beam propagated outward, its power per unit area decreased under the same inverse square relation that governed the reflected sunlight I had just received. At Jupiter’s orbital distance, the illuminated cross-section expanded enormously. The solid angle subtended by Jupiter from Earth is minute. The fraction of emitted photons whose trajectories intersect the planet is correspondingly tiny.
 
-Small here can be estimated. The fraction of emitted photons capable of intersecting Jupiter’s atmosphere approaches zero as distance increases. Approaches, but does not reach.
+The probability is non-zero.
 
-In quantum mechanics, interaction between systems is described by a wavefunction whose squared magnitude gives the likelihood of a specific outcome:
+In quantum mechanics, interaction between systems is described by a wavefunction whose squared magnitude gives the likelihood of a particular outcome:
 
 P = |ψ|².
 
-An event requires overlap in space and time. As long as amplitude retains support at those coordinates, interaction remains allowed. The numerical value of P for a photon from my lamp striking Jupiter’s clouds is extraordinarily low. The formalism preserves it.
+An interaction requires overlap in space and time. As long as amplitude retains support at those coordinates, the event remains allowed. For a photon from my lamp to encounter Jupiter’s atmosphere, the numerical value of P is extremely small. The formalism keeps it alive.
 
-Some interpretations of quantum theory treat every permitted outcome as embedded within a larger branching structure. Outcomes differ in measure. All remain present in the mathematical object.
+Certain interpretations of quantum theory treat the full wavefunction as real, with all permitted outcomes embedded within a branching structure. Branches differ in measure. Each corresponds to a consistent history of events.
 
-Within that structure exists a branch in which one photon from my lamp encountered Jupiter’s atmosphere.
+Within that structure exists a branch in which one photon carrying my signal reaches Jupiter’s clouds.
 
-The dominant branch contains dispersal into interplanetary space. A smaller branch contains arrival. Both are solutions to the same equations.
+If consciousness traces one branch through that landscape of possibility, then awareness rides a path defined by amplitude. Most paths contain dispersal into interplanetary space. A slender path contains arrival—a faint signature of my deck, my tuba, my coordinates, inscribed in scattered sunlight on a gas giant.
 
-The more improbable alignment lies closer to home.
+In that branch, Jupiter and I exchange signals.
 
-For this moment to occur, stellar nucleosynthesis had to generate heavy elements. Planetary accretion had to assemble Earth. Chemistry had to produce replicating molecules. Evolution had to generate nervous systems capable of integrating light into perception. Countless contingencies had to unfold across billions of years. The probability of this specific configuration—this observer, at these coordinates, receiving these photons—is vanishingly small in any naive combinatorial sense.
+Light leaves the Sun, reflects from Jupiter, enters my retina, triggers neuronal circuitry. Light leaves my lamp, expands across space, and touches Jupiter’s atmosphere. A loop forms across astronomical distance: fusion, reflection, perception, intention, emission.
 
-And yet here it is.
+Valentine is a mirror.
 
-A photon reflected from Jupiter intersected retinal tissue. A neural circuit stabilized a point of light. A body chose to lift a lamp and send photons outward in return.
+At this coordinate in spacetime, I received photons that left Jupiter minutes earlier. I responded with photons of my own. The alignment required geometry, chemistry, biology, and choice. The numerical odds of this exact configuration—this body, this instrument, this planet overhead—are small in any combinatorial accounting. Their occurrence is the condition of experience.
 
-The arc from Sun to Jupiter to retina to cortex to gesture spans astronomical distance and molecular scale. It spans cosmology and chemistry. It spans history and choice.
+Non-zero probability does not promise repetition. It grants permission.
 
-Non-zero probability does not imply likely. It implies permitted.
+This moment was permitted.
 
-This moment, too, was permitted.
+I sat with it, holding a brass instrument warm from breath, watching a planet burn steady against black, thinking about light and time and the improbability of awareness. The exchange may be vanishingly faint. The equations allow it. The branch contains it.
 
-That fact alone renders it singular.
+So I choose the branch where my name in light reaches Jupiter.
 
 <br><br>
 
