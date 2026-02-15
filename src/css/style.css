@@ -99,7 +99,7 @@ button:hover {
 
 /* -------------------------------------------------
    Aggregated Folds table styling
-   ------------------------------------------------- */
+------------------------------------------------- */
 
 .content table,
 main table {
@@ -135,7 +135,6 @@ main td {
   vertical-align: top;
 }
 
-/* subtle column separation without boxing */
 .content td + td,
 .content th + th,
 main td + td,
@@ -143,7 +142,6 @@ main th + th {
   border-left: 1px solid #eee;
 }
 
-/* anchor first column (attention mode) */
 .content td:first-child,
 .content th:first-child,
 main td:first-child,
@@ -151,9 +149,10 @@ main th:first-child {
   font-weight: 600;
   white-space: nowrap;
 }
+
 /* -------------------------------------------------
-   Post media: keep images inside the text column
-   ------------------------------------------------- */
+   Post media
+------------------------------------------------- */
 
 main img,
 .content img {
@@ -162,15 +161,56 @@ main img,
   height: auto;
 }
 
-/* If your markdown wraps images in <figure>, keep that constrained too */
 main figure,
 .content figure {
   margin: 2rem 0;
   max-width: 100%;
 }
 
-/* In case some template sets img width larger than container */
 main figure img,
 .content figure img {
   width: 100%;
+}
+
+/* Ensure video behaves like images */
+
+main video,
+.content video {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: 0 auto;
+}
+
+/* -------------------------------------------------
+   Equation styling (Topology-compatible)
+------------------------------------------------- */
+
+.eq {
+  text-align: center;
+  margin: 2rem 0;
+  padding: 0.75rem 0;
+  font-family: 'Courier New', monospace;
+  font-size: 0.95rem;
+  letter-spacing: 0.02em;
+}
+
+.eq small {
+  font-size: 0.8rem;
+}
+
+.eqi {
+  font-style: italic;
+}
+
+/* Subtle vertical breathing space above and below */
+
+.eq::before,
+.eq::after {
+  content: "";
+  display: block;
+  height: 1px;
+  width: 40px;
+  margin: 0.75rem auto;
+  background: #000;
 }
