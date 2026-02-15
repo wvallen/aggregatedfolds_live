@@ -20,7 +20,7 @@ tags: post
 
 I sat on my deck and played Holst’s *Jupiter* toward the sky. The tuba pushed columns of air into motion; pressure waves radiated outward, coupling molecule to molecule, diffusing into turbulence and thermal noise within a few hundred meters. Sound belongs to atmosphere. It decays as it spreads. By the time it reaches the treeline, it is already folding back into quiet.
 
-Jupiter hung above that treeline as a bright point. Four faint companions—its moons—hovered nearby, barely separable from the star field. No storms, no disk, only a concentrated glint. The light in that glint began as fusion in the Sun, photons born in a stellar core, random-walking outward for thousands of years before escaping into space. Those photons traveled roughly 5 astronomical units to reach Jupiter, scattered from hydrogen and ammonia clouds, and then crossed another 5 astronomical units to intersect Earth.
+Jupiter hung above that treeline as a bright point. With my binoculars, I can make out four faint companions—its moons—hovered nearby, barely separable from the star field. No storms, no disk, only a concentrated glint. The light in that glint began as fusion in the Sun, photons born in a stellar core, random-walking outward for thousands of years before escaping into space. Those photons traveled roughly 5 astronomical units to reach Jupiter, scattered from hydrogen and ammonia clouds, and then crossed another 5 astronomical units to intersect Earth.
 
 As electromagnetic radiation propagates, its intensity decreases with distance according to the inverse square law,
 
