@@ -64,7 +64,7 @@ Non-zero probability does not guarantee arrival. It allows it.
 
 I've decided to have my consciousness flow to the particular universe within the multiverse where my signals complete the arc.
 
-And so I send a valentine into the dark.
+And so I send a valentine into the dark:
 
 <br><br>
 
