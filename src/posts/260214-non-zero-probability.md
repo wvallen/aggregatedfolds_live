@@ -20,7 +20,7 @@ tags: post
 
 I sat on my deck and played Holst’s *Jupiter* toward the sky. The tuba pushed columns of air into motion; pressure waves radiated outward, coupling molecule to molecule and diffusing into turbulence and thermal noise within a few hundred meters. The energy in sound waves disperses as it spreads. By the time it reaches the treeline, it is already folding back into quiet.
 
-Jupiter hung above the treeline as a bright point. With my binoculars, four faint companions— its moons— resolved beside it, small beads shifting position according to orbital mechanics. Traceing it back- the photons born in a stellar core random-walked outward for thousands of years before escaping into space. Once free of the Sun’s surface, they travel a vector at about eight minutes per astronomical unit. The path from Sun to Jupiter spans roughly five astronomical units, and from Jupiter to Earth another four to six, depending on orbital alignment. From the moment those photons left the solar surface to the moment they entered my pupils, the free-flight portion of their journey lasted on the order of eighty to ninety minutes.
+Jupiter hung above the treeline as a bright point. With my binoculars, four faint companions— its moons— resolved beside it, small beads shifting position according to orbital mechanics. Tracing it back— the photons born in a stellar core random-walked outward for thousands of years before escaping into space. Once free of the Sun’s surface, they travel a vector at about eight minutes per astronomical unit. The path from Sun to Jupiter spans roughly five astronomical units, and from Jupiter to Earth another four to six, depending on orbital alignment. From the moment those photons left the solar surface to the moment they entered my pupils, the free-flight portion of their journey lasted on the order of eighty to ninety minutes.
 
 As electromagnetic radiation propagates, its intensity decreases with distance according to the inverse square law,
 
@@ -32,11 +32,11 @@ At that spacetime coordinate— latitude, longitude, altitude, timestamp— phot
 
 The concept felt immediate. The geometry behind it spanned astronomical scale.
 
-I found myself thinking about the path of those photons, about the arc from stellar fusion to molecular transduction, about the alignment required for light emitted minutes earlier and billions of kilometers away to intersect a few square millimeters of retinal tissue at precisely this second. The likelihood that any given photon reflected from Jupiter would encounter my pupils at that moment is extremely small. 
+I found myself thinking about the arc from stellar fusion to molecular transduction, about the alignment required for light emitted minutes earlier and billions of kilometers away to intersect a few square millimeters of retinal tissue at precisely this second. The likelihood that any given reflected photon would encounter my pupils at that moment is extremely small.
 
-Sound cannot traverse interplanetary space; pressure waves require a medium. So I reached for light instead. I lifted my headlamp and flashed a single Morse code character toward Jupiter— w (.--).
+Sound cannot traverse interplanetary space; pressure waves require a medium. So I reached for light instead. I lifted my headlamp and flashed a single Morse code character toward Jupiter— W (.--).
 
-The lamp emitted photons within a forward cone shaped by reflector geometry. As the beam propagated outward, its energy per unit area diminished under the same inverse square relation governing the reflected sunlight I had just received. At Jupiter’s orbital distance, the illuminated cross-sectional area expands enormously. Jupiter occupies a minute solid angle when viewed from Earth, so the fraction of emitted photons whose trajectories intersect the planet is correspondingly small.
+The lamp emitted photons within a forward cone shaped by reflector geometry. As the beam propagated outward, its energy per unit area diminished under the same inverse square relation governing the sunlight I had just received. At Jupiter’s orbital distance, the illuminated cross-sectional area expands enormously. Jupiter occupies a minute solid angle when viewed from Earth, so the fraction of emitted photons whose trajectories align with it is correspondingly small.
 
 But, the probability is non-zero.
 
@@ -44,25 +44,23 @@ In quantum mechanics, interaction between systems is described by a wavefunction
 
 P = |ψ|².
 
-An event requires overlap in space and time. As long as amplitude retains support at the relevant coordinates, interaction remains allowed. For a photon from my lamp to encounter Jupiter’s atmosphere, the numerical value of P is extremely small, but it's still possible, mathmatically.
+An event requires overlap in space and time. As long as amplitude retains support at the relevant coordinates, interaction remains allowed. For light from my lamp to reach Jupiter, the numerical value of P is extremely small, but it is still possible, mathematically.
 
 One interpretation of this mathematics is the Many-Worlds interpretation which treats the entire wavefunction as physically real. Every permitted outcome persists as part of a branching multiverse. Branches differ in measure, or weight, determined by amplitude. Each branch represents a self-consistent history unfolding according to the same underlying equations.
 
-Within that multiverse exists a branch in which the photons carrying my Morse code “w” reaches Jupiter’s clouds. Practically all branches contain dispersal into interplanetary space, but there was a subset that landed on the surface of Jupiter. W in lights.
+Within that multiverse exists a branch in which my Morse code “W” completes its arc. Practically all branches contain dispersal into interplanetary space. A slender subset contains arrival. W in lights.
 
 If awareness follows a single branch through this causal-set structure, then experience becomes a path through weighted possibility. My consciousness inhabits one history among many mathematically present alternatives.
 
 In one of them, Jupiter and I exchange signals.
 
-Light leaves the Sun, reflects from Jupiter, enters my retina, and triggers neuronal circuitry. Light leaves my lamp, expands across space, and intersects Jupiter’s atmosphere. Fusion, reflection, perception, intention, emission— an arc spanning stellar plasma to cortical firing.
+Light leaves the Sun, reflects from Jupiter, enters my retina, and triggers neuronal circuitry. Light leaves my lamp, expands across space, and completes the arc. Fusion, reflection, perception, intention, emission— an arc spanning stellar plasma to cortical firing.
 
 The multiverse renders the exchange faint in measure, yet fully contained within the total structure of reality.
 
 At this coordinate in spacetime, photons that departed Jupiter less than an hour and a half earlier entered my pupils. I responded with photons of my own. Geometry, chemistry, biology, and choice converged in a single exchange. The combinatorial space of possible configurations is vast; the one in which I stood on this deck, brass warm from breath, watching that planet steady above the trees, occupies a slender region within it.
 
 Non-zero probability does not guarantee arrival. It allows it.
-
-Within the multiverse described by the equations, there exists a history in which photons from my lamp reach Jupiter’s clouds. There exists a history in which reflected sunlight reaches my retina. There exists a history in which awareness recognizes the symmetry between receiving and sending signals.
 
 I've decided to have my consciousness flow to the particular universe within the multiverse where my signals complete the arc.
 
