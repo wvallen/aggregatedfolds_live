@@ -38,7 +38,7 @@ Sound cannot traverse interplanetary space; pressure waves require a medium. So 
 
 The lamp emitted photons within a forward cone shaped by reflector geometry. As the beam propagated outward, its energy per unit area diminished under the same inverse square relation governing the sunlight I had just received. At Jupiter’s orbital distance, the illuminated cross-sectional area expands enormously. Jupiter occupies a minute solid angle when viewed from Earth, so the fraction of emitted photons whose trajectories align with it is correspondingly small.
 
-But, the probability is non-zero.
+But here is the crazy thing: the probability is non-zero.
 
 In quantum mechanics, interaction between systems is described by a wavefunction whose squared magnitude gives the likelihood of a specific outcome:
 
