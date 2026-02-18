@@ -54,7 +54,7 @@ If awareness follows a single branch through this causal-set structure, then exp
 
 In one of them, Jupiter and I exchange signals.
 
-Light leaves the Sun, reflects from Jupiter, and arrives at my retina, triggering a cascade of molecular and electrical change. At this coordinate in spacetime—latitude, longitude, altitude, timestamp—photons that departed less than an hour and a half earlier entered my pupils. I responded with photons of my own. Fusion, reflection, perception, intention, emission: geometry, chemistry, biology, and choice converged in a single exchange.
+Light leaves the Sun, reflects from Jupiter, and arrives at my retina, triggering a cascade of molecular and electrical change. At this coordinate in spacetime: latitude, longitude, altitude, timestamp- photons that departed less than an hour and a half earlier entered my pupils. I responded with photons of my own. Fusion, reflection, perception, intention, emission: geometry, chemistry, biology, and choice converged in a single exchange.
 
 The combinatorial space of possible configurations is vast; the one in which I stood on this deck, brass warm from breath, watching that planet steady above the trees, occupies a slender region within it.
 
