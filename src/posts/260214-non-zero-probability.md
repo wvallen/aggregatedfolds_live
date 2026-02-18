@@ -60,7 +60,7 @@ The combinatorial space of possible configurations is vast; the one in which I s
 
 Non-zero probability does not ensure completion. It keeps completion possible.
 
-If I'm allowed to choose where my consciousness flows, I choose the particular path within the multiverse where my signals complete the arc.
+If I'm allowed to choose where my consciousness flows, I choose the particular path within the multiverse where the signals complete the arc.
 
 And so I send a valentine into the dark:
 
