@@ -32,7 +32,7 @@ At that spacetime coordinate— latitude, longitude, altitude, timestamp— phot
 
 The concept felt immediate. The geometry behind it spanned astronomical scale.
 
-I found myself thinking about the arc from stellar fusion to molecular transduction, about the alignment required for light emitted minutes earlier and billions of kilometers away to intersect a few square millimeters of retinal tissue at precisely this second. The likelihood that any given reflected photon would encounter my pupils at that moment is extremely small.
+I found myself thinking about the probability of this arc from stellar fusion to molecular transduction, about the alignment required for light emitted minutes earlier and billions of kilometers away to intersect a few square millimeters of retinal tissue at precisely this second. The likelihood that any given reflected photon would encounter my pupils at that moment is extremely small.
 
 Sound cannot traverse interplanetary space; pressure waves require a medium. So I reached for light instead. I lifted my headlamp and flashed a single Morse code character toward Jupiter— W (.--).
 
