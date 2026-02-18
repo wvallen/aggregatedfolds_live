@@ -54,15 +54,13 @@ If awareness follows a single branch through this causal-set structure, then exp
 
 In one of them, Jupiter and I exchange signals.
 
-Light leaves the Sun, reflects from Jupiter, enters my retina, and triggers neuronal circuitry. Light leaves my lamp, expands across space, and completes the arc. Fusion, reflection, perception, intention, emission— an arc spanning stellar plasma to cortical firing.
+Light leaves the Sun, reflects from Jupiter, and arrives at my retina, triggering a cascade of molecular and electrical change. At this coordinate in spacetime—latitude, longitude, altitude, timestamp—photons that departed less than an hour and a half earlier entered my pupils. I responded with photons of my own. Fusion, reflection, perception, intention, emission: geometry, chemistry, biology, and choice converged in a single exchange.
 
-The multiverse renders the exchange faint in measure, yet fully contained within the total structure of reality.
+The combinatorial space of possible configurations is vast; the one in which I stood on this deck, brass warm from breath, watching that planet steady above the trees, occupies a slender region within it.
 
-At this coordinate in spacetime, photons that departed Jupiter less than an hour and a half earlier entered my pupils. I responded with photons of my own. Geometry, chemistry, biology, and choice converged in a single exchange. The combinatorial space of possible configurations is vast; the one in which I stood on this deck, brass warm from breath, watching that planet steady above the trees, occupies a slender region within it.
+Non-zero probability does not ensure completion. It keeps completion possible.
 
-Non-zero probability does not guarantee arrival. It allows it.
-
-I've decided to have my consciousness flow to the particular universe within the multiverse where my signals complete the arc.
+If I'm allowed to choose where my consciousness flows, I choose the particular path within the multiverse where my signals complete the arc.
 
 And so I send a valentine into the dark:
 
